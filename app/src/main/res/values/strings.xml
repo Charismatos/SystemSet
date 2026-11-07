@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">System Set</string>
+    <string name="start_streaming">Start streaming</string>
+    <string name="stop_streaming">Stop streaming</string>
+</resources>

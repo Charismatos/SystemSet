@@ -1,0 +1,262 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.systemset"
+4    android:versionCode="1"
+5    android:versionName="1.0.2" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="24"
+8-->INJECTED
+9        android:targetSdkVersion="37" />
+9-->INJECTED
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:4:5-65
+11-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:4:22-62
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:5:5-67
+12-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:5:22-64
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:6:5-77
+13-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:6:22-74
+14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CAMERA" />
+14-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:7:5-84
+14-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:7:22-81
+15    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+15-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:8:5-77
+15-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:8:22-74
+16
+17    <uses-feature
+17-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:10:5-88
+18        android:name="android.hardware.camera.any"
+18-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:10:19-61
+19        android:required="true" />
+19-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:10:62-85
+20
+21    <uses-permission android:name="android.permission.WAKE_LOCK" />
+21-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:23:5-68
+21-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:23:22-65
+22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+22-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:24:5-79
+22-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:24:22-76
+23    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+23-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:25:5-81
+23-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:25:22-78
+24
+25    <permission
+25-->[androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:22:5-24:47
+26        android:name="com.example.systemset.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+26-->[androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:23:9-81
+27        android:protectionLevel="signature" />
+27-->[androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:24:9-44
+28
+29    <uses-permission android:name="com.example.systemset.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+29-->[androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:26:5-97
+29-->[androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:26:22-94
+30
+31    <application
+31-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:12:5-34:19
+32        android:allowBackup="true"
+32-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:13:9-35
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:28:18-86
+34        android:dataExtractionRules="@xml/data_extraction_rules"
+34-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:15:9-65
+35        android:debuggable="true"
+36        android:extractNativeLibs="false"
+36-->INJECTED
+37        android:fullBackupContent="@xml/backup_rules"
+37-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:14:9-54
+38        android:icon="@mipmap/systemset_logo"
+38-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:16:9-46
+39        android:label="@string/app_name"
+39-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:17:9-41
+40        android:theme="@style/Theme.MaterialComponents.DayNight.DarkActionBar" >
+40-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:18:9-79
+41        <activity
+41-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:20:9-27:20
+42            android:name="com.example.systemset.MainActivity"
+42-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:21:13-41
+43            android:exported="true" >
+43-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:22:13-36
+44            <intent-filter>
+44-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:23:13-26:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:24:17-69
+45-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:24:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:25:17-77
+47-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:25:27-74
+48            </intent-filter>
+49        </activity>
+50
+51        <service
+51-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:29:9-32:54
+52            android:name="com.example.systemset.DeviceStreamingService"
+52-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:30:13-51
+53            android:exported="false"
+53-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:31:13-37
+54            android:foregroundServiceType="camera" />
+54-->D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:32:13-51
+55
+56        <provider
+56-->[androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+57            android:name="androidx.startup.InitializationProvider"
+57-->[androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+58            android:authorities="com.example.systemset.androidx-startup"
+58-->[androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+59            android:exported="false" >
+59-->[androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+60            <meta-data
+60-->[androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+61                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+61-->[androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+62                android:value="androidx.startup" />
+62-->[androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+63            <meta-data
+63-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:34:13-36:52
+64                android:name="androidx.work.WorkManagerInitializer"
+64-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:35:17-68
+65                android:value="androidx.startup" />
+65-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:36:17-49
+66            <meta-data
+66-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1643acca65cdd08b1c31315506a6db46\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:29:13-31:52
+67                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+67-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1643acca65cdd08b1c31315506a6db46\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:30:17-78
+68                android:value="androidx.startup" />
+68-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1643acca65cdd08b1c31315506a6db46\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:31:17-49
+69            <meta-data
+69-->[com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:16:13-18:52
+70                android:name="okhttp3.internal.platform.PlatformInitializer"
+70-->[com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:17:17-77
+71                android:value="androidx.startup" />
+71-->[com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:18:17-49
+72            <meta-data
+72-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+73                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+73-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+74                android:value="androidx.startup" />
+74-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+75        </provider>
+76
+77        <service
+77-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:39:9-45:35
+78            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+78-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:40:13-84
+79            android:directBootAware="false"
+79-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:41:13-44
+80            android:enabled="@bool/enable_system_job_service_default"
+80-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:42:13-70
+81            android:exported="true"
+81-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:43:13-36
+82            android:permission="android.permission.BIND_JOB_SERVICE" />
+82-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:44:13-69
+83        <service
+83-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:46:9-52:35
+84            android:name="androidx.work.impl.foreground.SystemForegroundService"
+84-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:47:13-81
+85            android:directBootAware="false"
+85-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:48:13-44
+86            android:enabled="@bool/enable_system_foreground_service_default"
+86-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:49:13-77
+87            android:exported="false" />
+87-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:50:13-37
+88
+89        <receiver
+89-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:54:9-59:35
+90            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+90-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:55:13-88
+91            android:directBootAware="false"
+91-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:56:13-44
+92            android:enabled="true"
+92-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:57:13-35
+93            android:exported="false" />
+93-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:58:13-37
+94        <receiver
+94-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:60:9-69:20
+95            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+95-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:61:13-88
+96            android:directBootAware="false"
+96-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:62:13-44
+97            android:enabled="false"
+97-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:63:13-36
+98            android:exported="false" >
+98-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:64:13-37
+99            <intent-filter>
+99-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:66:13-68:29
+100                <action android:name="android.intent.action.BOOT_COMPLETED" />
+100-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:67:17-79
+100-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:67:25-76
+101            </intent-filter>
+102        </receiver>
+103        <receiver
+103-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:70:9-80:20
+104            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+104-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:71:13-78
+105            android:directBootAware="false"
+105-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:72:13-44
+106            android:enabled="true"
+106-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:73:13-35
+107            android:exported="true"
+107-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:74:13-36
+108            android:permission="android.permission.DUMP" >
+108-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:75:13-57
+109            <intent-filter>
+109-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:77:13-79:29
+110                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+110-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:78:17-88
+110-->[androidx.work:work-runtime:2.12.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\0acb72594d377db2e67d452e4e98363a\transformed\work-runtime-2.12.0\AndroidManifest.xml:78:25-85
+111            </intent-filter>
+112        </receiver>
+113
+114        <service
+114-->[androidx.room:room-runtime-android:2.7.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d139697eb10ddc044174a9179b2b2be8\transformed\room-runtime-release\AndroidManifest.xml:24:9-28:63
+115            android:name="androidx.room.MultiInstanceInvalidationService"
+115-->[androidx.room:room-runtime-android:2.7.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d139697eb10ddc044174a9179b2b2be8\transformed\room-runtime-release\AndroidManifest.xml:25:13-74
+116            android:directBootAware="true"
+116-->[androidx.room:room-runtime-android:2.7.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d139697eb10ddc044174a9179b2b2be8\transformed\room-runtime-release\AndroidManifest.xml:26:13-43
+117            android:exported="false" />
+117-->[androidx.room:room-runtime-android:2.7.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d139697eb10ddc044174a9179b2b2be8\transformed\room-runtime-release\AndroidManifest.xml:27:13-37
+118
+119        <receiver
+119-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+120            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+120-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+121            android:directBootAware="false"
+121-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+122            android:enabled="true"
+122-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+123            android:exported="true"
+123-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+124            android:permission="android.permission.DUMP" >
+124-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+125            <intent-filter>
+125-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+126                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+126-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+126-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+127            </intent-filter>
+128            <intent-filter>
+128-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+129                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+129-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+129-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+130            </intent-filter>
+131            <intent-filter>
+131-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+132                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+132-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+132-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+133            </intent-filter>
+134            <intent-filter>
+134-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+135                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+135-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+135-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+136            </intent-filter>
+137        </receiver>
+138    </application>
+139
+140</manifest>

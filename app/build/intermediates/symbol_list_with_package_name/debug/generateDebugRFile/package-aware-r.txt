@@ -1,0 +1,13 @@
+com.example.systemset
+drawable gv_counter_logo
+drawable gv_counter_logo_no_buffer
+id btnToggleStream
+id logcatTextView
+id statusTextView
+layout activity_main
+mipmap systemset_logo
+string app_name
+string start_streaming
+string stop_streaming
+xml backup_rules
+xml data_extraction_rules

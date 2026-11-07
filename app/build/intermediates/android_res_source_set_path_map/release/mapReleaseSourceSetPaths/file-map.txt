@@ -1,0 +1,9 @@
+com.example.systemset.app-pngs-0 D:\Development\Projects\Android\SystemSet\app\build\generated\res\pngs\release
+com.example.systemset.app-updated_navigation_xml-1 D:\Development\Projects\Android\SystemSet\app\build\generated\updated_navigation_xml\release
+com.example.systemset.app-packageReleaseResources-2 D:\Development\Projects\Android\SystemSet\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.systemset.app-packageReleaseResources-3 D:\Development\Projects\Android\SystemSet\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.systemset.app-merged-not-compiled-resources-4 D:\Development\Projects\Android\SystemSet\app\build\intermediates\merged-not-compiled-resources\release
+com.example.systemset.app-release-5 D:\Development\Projects\Android\SystemSet\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.systemset.app-main-6 D:\Development\Projects\Android\SystemSet\app\src\main\res
+com.example.systemset.app-release-7 D:\Development\Projects\Android\SystemSet\app\src\release\res
+gradleHome-0 C:\Users\CHARISMATOS\.gradle

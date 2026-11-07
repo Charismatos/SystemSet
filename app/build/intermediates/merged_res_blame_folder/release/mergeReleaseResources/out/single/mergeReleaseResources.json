@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.systemset.app-release-37:/drawable-nodpi_gv_counter_logo_no_buffer.png.flat",
+        "source": "com.example.systemset.app-main-38:/drawable-nodpi/gv_counter_logo_no_buffer.png"
+    },
+    {
+        "merged": "com.example.systemset.app-release-37:/layout_activity_main.xml.flat",
+        "source": "com.example.systemset.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.systemset.app-release-37:/drawable-nodpi_gv_counter_logo.png.flat",
+        "source": "com.example.systemset.app-main-38:/drawable-nodpi/gv_counter_logo.png"
+    },
+    {
+        "merged": "com.example.systemset.app-release-37:/mipmap_systemset_logo.png.flat",
+        "source": "com.example.systemset.app-main-38:/mipmap/systemset_logo.png"
+    }
+]

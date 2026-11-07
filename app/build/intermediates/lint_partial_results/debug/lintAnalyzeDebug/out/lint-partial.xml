@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 9.4.0" type="partial_results">
+    <map id="NotificationPermission">
+        <entry
+            name="source"
+            boolean="true"/>
+    </map>
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.example.systemset.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.drawable.gv_counter_logo"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/drawable-nodpi/gv_counter_logo.png"/>
+        <location id="R.drawable.gv_counter_logo_no_buffer"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/drawable-nodpi/gv_counter_logo_no_buffer.png"/>
+        <entry
+            name="model"
+            string="drawable[gv_counter_logo(D),gv_counter_logo_no_buffer(D)],id[installationSummary(U),connectionStatus(U),btnEnroll(U),btnStartStreaming(U),btnStopStreaming(U),btnRenameDevice(U),btnRevokeDevice(U)],layout[activity_main(U)],mipmap[systemset_logo(U)],string[app_name(U),installation_summary_loading(U),initial_status(U),enroll_device(U),start_streaming(U),stop_streaming(U),rename_device(U),revoke_device(U),installation_summary(U),default_device_label(U),enroll_device_title(U),enroll_device_message(U),bootstrap_token_hint(U),bootstrap_token_required(U),enroll(U),call_id_hint(U),start_streaming_title(U),start_streaming_message(U),rename_device_title(U),rename_device_message(U),display_label_hint(U),save_label(U),revoke_device_title(U),revoke_device_message(U),streaming_notification_channel(U),streaming_notification_title(U)],style[Theme_MaterialComponents_DayNight_DarkActionBar(R)],xml[data_extraction_rules(U),backup_rules(U)];9^b^c^d^e^f^10^11^12;;;"/>
+    </map>
+
+</incidents>

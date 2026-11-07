@@ -1,0 +1,1431 @@
+androidx.lifecycle.ProcessLifecycleOwner$attach$1
+com.google.android.material.appbar.AppBarLayout$BaseBehavior
+androidx.startup.InitializationProvider
+androidx.emoji2.text.EmojiCompatInitializer
+org.webrtc.Logging
+androidx.appcompat.widget.ViewStubCompat
+com.google.android.material.bottomsheet.BottomSheetBehavior
+androidx.core.graphics.drawable.IconCompat
+com.example.systemset.MainActivity
+androidx.transition.FragmentTransitionSupport
+org.webrtc.Histogram
+androidx.appcompat.widget.ButtonBarLayout
+com.google.android.material.transformation.FabTransformationSheetBehavior
+com.google.android.material.behavior.HideViewOnScrollBehavior
+com.google.android.material.search.SearchBar$ScrollingViewBehavior
+okhttp3.internal.platform.PlatformInitializer
+com.google.android.material.snackbar.BaseTransientBottomBar$Behavior
+androidx.lifecycle.SavedStateHandlesVM
+androidx.appcompat.widget.SearchView$SearchAutoComplete
+androidx.appcompat.widget.ActionBarContextView
+com.google.android.material.theme.MaterialComponentsViewInflater
+androidx.annotation.Keep
+androidx.lifecycle.LegacySavedStateHandleController$OnRecreation
+androidx.appcompat.widget.ContentFrameLayout
+com.google.android.material.appbar.AppBarLayout$Behavior
+com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior
+org.webrtc.MediaSource
+androidx.appcompat.widget.DialogTitle
+com.google.android.material.floatingactionbutton.FloatingActionButton$Behavior
+androidx.appcompat.widget.Toolbar
+com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton$ExtendedFloatingActionButtonBehavior
+org.webrtc.audio.JavaAudioDeviceModule
+org.webrtc.VideoTrack
+androidx.profileinstaller.ProfileInstallerInitializer
+org.webrtc.TimestampAligner
+androidx.recyclerview.widget.LinearLayoutManager
+androidx.appcompat.view.menu.ListMenuItemView
+org.webrtc.EglBase10Impl
+com.google.android.material.transformation.ExpandableTransformationBehavior
+androidx.profileinstaller.ProfileInstallReceiver
+org.webrtc.JavaI420Buffer
+com.google.android.material.sidesheet.SideSheetBehavior
+com.google.android.material.search.SearchView$Behavior
+com.google.android.material.behavior.SwipeDismissBehavior
+com.google.android.material.focus.FocusRingDrawable
+androidx.appcompat.app.AlertController$RecycleListView
+com.google.android.material.behavior.HideBottomViewOnScrollBehavior
+org.webrtc.audio.WebRtcAudioRecord
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback
+androidx.recyclerview.widget.StaggeredGridLayoutManager
+androidx.appcompat.widget.ActionMenuView
+org.webrtc.YuvHelper
+org.webrtc.audio.WebRtcAudioTrack
+androidx.appcompat.widget.ActionBarOverlayLayout
+org.webrtc.BuiltinAudioEncoderFactoryFactory
+androidx.appcompat.widget.FitWindowsFrameLayout
+org.webrtc.PeerConnection
+org.webrtc.PeerConnectionFactory
+org.webrtc.JniCommon
+org.webrtc.BuiltinAudioDecoderFactoryFactory
+androidx.core.graphics.drawable.IconCompatParcelizer
+org.webrtc.Environment
+org.webrtc.SurfaceViewRenderer
+androidx.appcompat.view.menu.ExpandedMenuView
+androidx.lifecycle.ProcessLifecycleInitializer
+androidx.lifecycle.ReportFragment$LifecycleCallbacks
+androidx.core.app.RemoteActionCompatParcelizer
+com.google.android.material.bottomappbar.BottomAppBar$Behavior
+org.webrtc.RtpSender
+androidx.versionedparcelable.ParcelImpl
+org.webrtc.MediaStreamTrack
+androidx.appcompat.view.menu.ActionMenuItemView
+android.support.v4.app.RemoteActionCompatParcelizer
+androidx.lifecycle.ReportFragment
+androidx.core.app.RemoteActionCompat
+androidx.appcompat.widget.ActionBarContainer
+androidx.appcompat.widget.FitWindowsLinearLayout
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel
+com.google.android.material.transformation.FabTransformationBehavior
+com.google.android.material.floatingactionbutton.FloatingActionButton$BaseBehavior
+androidx.core.widget.NestedScrollView
+androidx.recyclerview.widget.GridLayoutManager
+android.support.v4.graphics.drawable.IconCompatParcelizer
+com.google.android.material.transformation.ExpandableBehavior
+androidx.appcompat.widget.AlertDialogLayout
+com.google.android.material.transformation.FabTransformationScrimBehavior
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1
+androidx.core.app.CoreComponentFactory
+androidx.versionedparcelable.CustomVersionedParcelable
+com.google.android.material.carousel.CarouselLayoutManager
+com.google.crypto.tink.proto.KeysetInfo$KeyInfo: int outputPrefixType_
+com.google.crypto.tink.proto.AesSivKey: int version_
+com.google.crypto.tink.proto.KmsEnvelopeAeadKeyFormat: int KEK_URI_FIELD_NUMBER
+com.google.crypto.tink.shaded.protobuf.GeneratedMessageLite: int UNINITIALIZED_SERIALIZED_SIZE
+com.google.crypto.tink.proto.KmsAeadKey: com.google.crypto.tink.proto.KmsAeadKey DEFAULT_INSTANCE
+com.google.crypto.tink.proto.RegistryConfig: com.google.crypto.tink.shaded.protobuf.Internal$ProtobufList entry_
+com.google.crypto.tink.proto.Keyset$Key: int KEY_DATA_FIELD_NUMBER
+com.google.crypto.tink.proto.KeysetInfo$KeyInfo: int keyId_
+com.google.crypto.tink.proto.AesSivKeyFormat: int KEY_SIZE_FIELD_NUMBER
+com.google.crypto.tink.proto.AesEaxKey: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.AesGcmSivKey: int version_
+com.google.crypto.tink.proto.Keyset$Key: int OUTPUT_PREFIX_TYPE_FIELD_NUMBER
+com.google.crypto.tink.proto.KeyData: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.AesCmacParams: int tagSize_
+com.google.crypto.tink.proto.KeyTemplate: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.KmsEnvelopeAeadKey: com.google.crypto.tink.proto.KmsEnvelopeAeadKey DEFAULT_INSTANCE
+com.google.crypto.tink.proto.Keyset$Key: int outputPrefixType_
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+com.google.crypto.tink.proto.ChaCha20Poly1305Key: int version_
+com.google.crypto.tink.proto.AesEaxKey: com.google.crypto.tink.proto.AesEaxKey DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesCtrKey: com.google.crypto.tink.shaded.protobuf.ByteString keyValue_
+com.google.crypto.tink.proto.HmacParams: int hash_
+com.google.crypto.tink.proto.KeyData: int VALUE_FIELD_NUMBER
+com.google.crypto.tink.proto.AesCtrHmacAeadKeyFormat: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.ChaCha20Poly1305KeyFormat: com.google.crypto.tink.proto.ChaCha20Poly1305KeyFormat DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesCtrHmacAeadKey: int version_
+com.google.crypto.tink.proto.KmsEnvelopeAeadKey: com.google.crypto.tink.proto.KmsEnvelopeAeadKeyFormat params_
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+com.google.crypto.tink.proto.HmacKey: int KEY_VALUE_FIELD_NUMBER
+com.google.crypto.tink.proto.HmacParams: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.AesSivKeyFormat: com.google.crypto.tink.proto.AesSivKeyFormat DEFAULT_INSTANCE
+com.google.crypto.tink.proto.Keyset$Key: int status_
+com.google.crypto.tink.proto.KeyTypeEntry: java.lang.String catalogueName_
+com.google.crypto.tink.proto.KmsEnvelopeAeadKeyFormat: com.google.crypto.tink.proto.KeyTemplate dekTemplate_
+com.google.crypto.tink.proto.KeyData: int keyMaterialType_
+com.google.crypto.tink.proto.KmsEnvelopeAeadKeyFormat: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.AesCmacParams: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.EncryptedKeyset: com.google.crypto.tink.proto.EncryptedKeyset DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesGcmSivKeyFormat: int keySize_
+com.google.crypto.tink.proto.KeyTypeEntry: boolean newKeyAllowed_
+com.google.crypto.tink.proto.HmacParams: com.google.crypto.tink.proto.HmacParams DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesGcmSivKeyFormat: int version_
+com.google.crypto.tink.proto.AesEaxKey: int KEY_VALUE_FIELD_NUMBER
+com.google.crypto.tink.proto.KeyTemplate: int TYPE_URL_FIELD_NUMBER
+com.google.crypto.tink.proto.AesCtrParams: int ivSize_
+com.google.crypto.tink.proto.AesCmacKeyFormat: int PARAMS_FIELD_NUMBER
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+com.google.crypto.tink.proto.AesGcmKeyFormat: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.EncryptedKeyset: int KEYSET_INFO_FIELD_NUMBER
+com.google.crypto.tink.proto.KeysetInfo$KeyInfo: int OUTPUT_PREFIX_TYPE_FIELD_NUMBER
+okhttp3.internal.connection.RealCall: okhttp3.EventListener eventListener
+com.google.crypto.tink.proto.AesEaxKeyFormat: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.shaded.protobuf.GeneratedMessageLite: int MUTABLE_FLAG_MASK
+com.google.crypto.tink.proto.KeyData: com.google.crypto.tink.shaded.protobuf.ByteString value_
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: androidx.lifecycle.ReportFragment$LifecycleCallbacks$Companion Companion
+com.google.crypto.tink.proto.AesCtrKeyFormat: int keySize_
+com.google.crypto.tink.proto.KmsEnvelopeAeadKeyFormat: java.lang.String kekUri_
+com.google.crypto.tink.proto.KeysetInfo: com.google.crypto.tink.proto.KeysetInfo DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesGcmKey: com.google.crypto.tink.proto.AesGcmKey DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesCtrHmacAeadKeyFormat: int HMAC_KEY_FORMAT_FIELD_NUMBER
+com.google.crypto.tink.proto.AesCtrKey: com.google.crypto.tink.proto.AesCtrParams params_
+androidx.customview.view.AbsSavedState: android.os.Parcelable$Creator CREATOR
+com.google.crypto.tink.proto.AesCtrHmacAeadKey: com.google.crypto.tink.proto.HmacKey hmacKey_
+com.google.crypto.tink.proto.EncryptedKeyset: int ENCRYPTED_KEYSET_FIELD_NUMBER
+com.google.crypto.tink.proto.KeyTypeEntry: int NEW_KEY_ALLOWED_FIELD_NUMBER
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+com.google.crypto.tink.proto.RegistryConfig: int CONFIG_NAME_FIELD_NUMBER
+com.google.crypto.tink.proto.XChaCha20Poly1305Key: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.KeysetInfo$KeyInfo: java.lang.String typeUrl_
+com.google.crypto.tink.proto.HmacKeyFormat: com.google.crypto.tink.proto.HmacParams params_
+com.google.crypto.tink.proto.AesCmacKey: com.google.crypto.tink.proto.AesCmacParams params_
+com.google.crypto.tink.proto.HmacKeyFormat: int KEY_SIZE_FIELD_NUMBER
+com.google.crypto.tink.proto.AesEaxKeyFormat: int PARAMS_FIELD_NUMBER
+com.google.crypto.tink.proto.AesCmacKeyFormat: int KEY_SIZE_FIELD_NUMBER
+androidx.activity.result.ActivityResult: android.os.Parcelable$Creator CREATOR
+com.google.crypto.tink.proto.AesGcmKeyFormat: int KEY_SIZE_FIELD_NUMBER
+com.google.crypto.tink.proto.AesGcmSivKeyFormat: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.HmacParams: int TAG_SIZE_FIELD_NUMBER
+com.google.crypto.tink.proto.AesCmacKey: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.Keyset: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.shaded.protobuf.GeneratedMessageLite: int UNINITIALIZED_HASH_CODE
+com.google.crypto.tink.proto.HmacKeyFormat: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.AesGcmKeyFormat: com.google.crypto.tink.proto.AesGcmKeyFormat DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesCtrKey: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.Keyset: int primaryKeyId_
+com.google.crypto.tink.proto.ChaCha20Poly1305Key: com.google.crypto.tink.shaded.protobuf.ByteString keyValue_
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event$Companion Companion
+com.google.crypto.tink.proto.KmsAeadKey: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.KeyTemplate: int VALUE_FIELD_NUMBER
+com.google.crypto.tink.proto.AesCmacKey: com.google.crypto.tink.shaded.protobuf.ByteString keyValue_
+com.google.crypto.tink.proto.KeyTypeEntry: int KEY_MANAGER_VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.HmacKeyFormat: com.google.crypto.tink.proto.HmacKeyFormat DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesSivKey: int KEY_VALUE_FIELD_NUMBER
+com.google.crypto.tink.proto.KeysetInfo$KeyInfo: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.RegistryConfig: java.lang.String configName_
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+com.google.crypto.tink.proto.AesGcmSivKey: com.google.crypto.tink.shaded.protobuf.ByteString keyValue_
+com.google.crypto.tink.proto.Keyset$Key: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+androidx.appcompat.widget.AppCompatSpinner$SavedState: android.os.Parcelable$Creator CREATOR
+com.google.crypto.tink.proto.KmsEnvelopeAeadKey: int version_
+com.google.crypto.tink.proto.HmacKey: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.shaded.protobuf.GeneratedMessageLite: int MEMOIZED_SERIALIZED_SIZE_MASK
+com.google.android.material.checkbox.MaterialCheckBox$SavedState: android.os.Parcelable$Creator CREATOR
+com.google.crypto.tink.proto.AesCtrKey: int version_
+com.google.crypto.tink.proto.AesEaxParams: int ivSize_
+com.google.crypto.tink.proto.HmacKey: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.KmsAeadKey: com.google.crypto.tink.proto.KmsAeadKeyFormat params_
+com.google.crypto.tink.proto.AesCmacKey: com.google.crypto.tink.proto.AesCmacKey DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesSivKeyFormat: int version_
+com.google.crypto.tink.proto.Keyset$Key: int keyId_
+com.google.crypto.tink.proto.KmsEnvelopeAeadKey: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.Keyset: int PRIMARY_KEY_ID_FIELD_NUMBER
+com.google.crypto.tink.proto.XChaCha20Poly1305KeyFormat: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+androidx.transition.ChangeBounds$6: androidx.transition.ChangeBounds$ViewBounds mViewBounds
+com.google.crypto.tink.proto.AesCtrKeyFormat: com.google.crypto.tink.proto.AesCtrParams params_
+com.google.crypto.tink.proto.EncryptedKeyset: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.KeyTypeEntry: int CATALOGUE_NAME_FIELD_NUMBER
+com.google.crypto.tink.proto.KmsAeadKey: int PARAMS_FIELD_NUMBER
+com.google.crypto.tink.proto.Keyset: int KEY_FIELD_NUMBER
+com.google.crypto.tink.proto.AesCtrHmacAeadKey: com.google.crypto.tink.proto.AesCtrHmacAeadKey DEFAULT_INSTANCE
+com.google.crypto.tink.proto.KeysetInfo$KeyInfo: int status_
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+com.google.crypto.tink.proto.AesGcmSivKey: com.google.crypto.tink.proto.AesGcmSivKey DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesEaxKey: int version_
+com.google.crypto.tink.proto.KeyTemplate: int outputPrefixType_
+com.google.crypto.tink.proto.KeysetInfo: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.AesCmacKeyFormat: com.google.crypto.tink.proto.AesCmacParams params_
+com.google.crypto.tink.proto.KeyData: int TYPE_URL_FIELD_NUMBER
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+com.google.crypto.tink.proto.EncryptedKeyset: com.google.crypto.tink.proto.KeysetInfo keysetInfo_
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+com.google.crypto.tink.proto.KeyTypeEntry: int keyManagerVersion_
+com.google.crypto.tink.proto.AesCtrParams: int IV_SIZE_FIELD_NUMBER
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+com.google.crypto.tink.proto.AesCtrHmacAeadKeyFormat: com.google.crypto.tink.proto.HmacKeyFormat hmacKeyFormat_
+com.google.crypto.tink.proto.AesEaxKey: int PARAMS_FIELD_NUMBER
+com.google.crypto.tink.proto.XChaCha20Poly1305Key: com.google.crypto.tink.proto.XChaCha20Poly1305Key DEFAULT_INSTANCE
+com.google.crypto.tink.proto.KmsAeadKeyFormat: int KEY_URI_FIELD_NUMBER
+com.google.crypto.tink.proto.AesCtrKey: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.KeyData: com.google.crypto.tink.proto.KeyData DEFAULT_INSTANCE
+com.google.crypto.tink.proto.KmsAeadKeyFormat: java.lang.String keyUri_
+com.google.crypto.tink.proto.HmacKeyFormat: int keySize_
+com.google.crypto.tink.proto.AesEaxKey: com.google.crypto.tink.proto.AesEaxParams params_
+com.google.crypto.tink.proto.AesCtrParams: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.AesCtrHmacAeadKey: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.AesGcmKey: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.HmacKeyFormat: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.KeyTypeEntry: com.google.crypto.tink.proto.KeyTypeEntry DEFAULT_INSTANCE
+com.google.crypto.tink.proto.KeyTemplate: com.google.crypto.tink.proto.KeyTemplate DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesSivKeyFormat: int keySize_
+androidx.appcompat.widget.Toolbar$SavedState: android.os.Parcelable$Creator CREATOR
+com.google.crypto.tink.proto.HmacKey: com.google.crypto.tink.proto.HmacParams params_
+com.google.crypto.tink.proto.AesGcmKey: com.google.crypto.tink.shaded.protobuf.ByteString keyValue_
+com.google.crypto.tink.proto.AesCmacParams: com.google.crypto.tink.proto.AesCmacParams DEFAULT_INSTANCE
+com.google.crypto.tink.proto.KeysetInfo: int KEY_INFO_FIELD_NUMBER
+com.google.crypto.tink.proto.AesCmacKey: int PARAMS_FIELD_NUMBER
+com.google.crypto.tink.proto.AesEaxKeyFormat: com.google.crypto.tink.proto.AesEaxKeyFormat DEFAULT_INSTANCE
+com.google.crypto.tink.proto.RegistryConfig: com.google.crypto.tink.proto.RegistryConfig DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesCtrParams: com.google.crypto.tink.proto.AesCtrParams DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesCtrKey: int PARAMS_FIELD_NUMBER
+com.google.crypto.tink.proto.AesGcmSivKeyFormat: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.HmacKey: int PARAMS_FIELD_NUMBER
+com.google.crypto.tink.proto.AesCtrHmacAeadKey: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.AesCtrHmacAeadKey: com.google.crypto.tink.proto.AesCtrKey aesCtrKey_
+androidx.fragment.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+com.google.crypto.tink.proto.AesCtrKey: int KEY_VALUE_FIELD_NUMBER
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+com.google.crypto.tink.proto.KmsEnvelopeAeadKey: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.KeyTypeEntry: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+com.google.crypto.tink.proto.KmsEnvelopeAeadKeyFormat: com.google.crypto.tink.proto.KmsEnvelopeAeadKeyFormat DEFAULT_INSTANCE
+com.google.crypto.tink.proto.HmacKeyFormat: int version_
+com.google.crypto.tink.proto.KeysetInfo: com.google.crypto.tink.shaded.protobuf.Internal$ProtobufList keyInfo_
+com.google.crypto.tink.shaded.protobuf.AbstractMessageLite: int memoizedHashCode
+com.google.crypto.tink.proto.AesCtrHmacAeadKeyFormat: com.google.crypto.tink.proto.AesCtrHmacAeadKeyFormat DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesCmacKey: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.EncryptedKeyset: com.google.crypto.tink.shaded.protobuf.ByteString encryptedKeyset_
+com.google.crypto.tink.proto.AesEaxKeyFormat: int KEY_SIZE_FIELD_NUMBER
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+com.google.crypto.tink.proto.Keyset: com.google.crypto.tink.proto.Keyset DEFAULT_INSTANCE
+com.google.crypto.tink.proto.RegistryConfig: int ENTRY_FIELD_NUMBER
+com.google.crypto.tink.proto.AesSivKey: com.google.crypto.tink.proto.AesSivKey DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesSivKeyFormat: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.KeysetInfo: int PRIMARY_KEY_ID_FIELD_NUMBER
+com.google.crypto.tink.proto.KeysetInfo$KeyInfo: int STATUS_FIELD_NUMBER
+com.google.crypto.tink.proto.AesGcmKeyFormat: int keySize_
+com.google.crypto.tink.proto.KeysetInfo: int primaryKeyId_
+com.google.crypto.tink.proto.KeyTypeEntry: int PRIMITIVE_NAME_FIELD_NUMBER
+com.google.crypto.tink.proto.ChaCha20Poly1305Key: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.AesSivKey: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.HmacKey: com.google.crypto.tink.proto.HmacKey DEFAULT_INSTANCE
+com.google.crypto.tink.proto.XChaCha20Poly1305Key: int KEY_VALUE_FIELD_NUMBER
+com.google.crypto.tink.proto.AesCmacKeyFormat: com.google.crypto.tink.proto.AesCmacKeyFormat DEFAULT_INSTANCE
+com.google.crypto.tink.proto.HmacKey: int version_
+com.google.crypto.tink.proto.KeyTypeEntry: int TYPE_URL_FIELD_NUMBER
+androidx.fragment.app.BackStackRecordState: android.os.Parcelable$Creator CREATOR
+com.google.android.material.button.MaterialButton$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.Lifecycle$Event: kotlin.enums.EnumEntries $ENTRIES
+com.google.crypto.tink.proto.RegistryConfig: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.KmsEnvelopeAeadKeyFormat: int DEK_TEMPLATE_FIELD_NUMBER
+kotlinx.coroutines.flow.StateFlowImpl: java.lang.Object _state$volatile
+androidx.fragment.app.BackStackState: android.os.Parcelable$Creator CREATOR
+com.google.crypto.tink.proto.KeyTypeEntry: java.lang.String typeUrl_
+com.google.crypto.tink.proto.KmsAeadKey: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.AesGcmKey: int KEY_VALUE_FIELD_NUMBER
+com.google.crypto.tink.proto.HmacParams: int HASH_FIELD_NUMBER
+com.google.crypto.tink.proto.AesGcmSivKey: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.Keyset: com.google.crypto.tink.shaded.protobuf.Internal$ProtobufList key_
+com.google.crypto.tink.proto.AesGcmKeyFormat: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.AesCmacKey: int version_
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+com.google.crypto.tink.proto.AesCtrKeyFormat: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.AesEaxKey: com.google.crypto.tink.shaded.protobuf.ByteString keyValue_
+com.google.crypto.tink.proto.ChaCha20Poly1305Key: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.XChaCha20Poly1305KeyFormat: int version_
+com.google.crypto.tink.proto.AesCmacParams: int TAG_SIZE_FIELD_NUMBER
+com.google.crypto.tink.shaded.protobuf.GeneratedMessageLite: java.util.Map defaultInstanceMap
+com.google.crypto.tink.proto.AesCtrHmacAeadKeyFormat: com.google.crypto.tink.proto.AesCtrKeyFormat aesCtrKeyFormat_
+com.google.crypto.tink.proto.KeyTemplate: com.google.crypto.tink.shaded.protobuf.ByteString value_
+com.google.crypto.tink.proto.AesSivKeyFormat: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.KeysetInfo$KeyInfo: int KEY_ID_FIELD_NUMBER
+com.google.crypto.tink.proto.XChaCha20Poly1305KeyFormat: com.google.crypto.tink.proto.XChaCha20Poly1305KeyFormat DEFAULT_INSTANCE
+com.google.crypto.tink.proto.KmsEnvelopeAeadKey: int PARAMS_FIELD_NUMBER
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+com.google.crypto.tink.proto.Keyset$Key: int KEY_ID_FIELD_NUMBER
+com.google.crypto.tink.proto.KmsAeadKey: int version_
+com.google.crypto.tink.proto.Keyset$Key: com.google.crypto.tink.proto.Keyset$Key DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesCmacKey: int KEY_VALUE_FIELD_NUMBER
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+com.google.crypto.tink.proto.XChaCha20Poly1305Key: int version_
+com.google.crypto.tink.proto.AesCtrKeyFormat: com.google.crypto.tink.proto.AesCtrKeyFormat DEFAULT_INSTANCE
+com.google.crypto.tink.proto.KmsAeadKeyFormat: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.AesCmacKeyFormat: int keySize_
+com.google.crypto.tink.proto.KeysetInfo$KeyInfo: com.google.crypto.tink.proto.KeysetInfo$KeyInfo DEFAULT_INSTANCE
+com.google.crypto.tink.shaded.protobuf.GeneratedMessageLite: com.google.crypto.tink.shaded.protobuf.UnknownFieldSetLite unknownFields
+com.google.crypto.tink.proto.KeyTemplate: int OUTPUT_PREFIX_TYPE_FIELD_NUMBER
+com.google.crypto.tink.proto.AesGcmKey: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.KmsAeadKeyFormat: com.google.crypto.tink.proto.KmsAeadKeyFormat DEFAULT_INSTANCE
+com.google.crypto.tink.proto.HmacKey: com.google.crypto.tink.shaded.protobuf.ByteString keyValue_
+com.google.crypto.tink.proto.KeyData: int KEY_MATERIAL_TYPE_FIELD_NUMBER
+com.google.crypto.tink.proto.AesCtrHmacAeadKey: int AES_CTR_KEY_FIELD_NUMBER
+com.google.crypto.tink.proto.AesGcmSivKey: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.AesCtrHmacAeadKeyFormat: int AES_CTR_KEY_FORMAT_FIELD_NUMBER
+com.google.crypto.tink.proto.XChaCha20Poly1305KeyFormat: int VERSION_FIELD_NUMBER
+androidx.core.widget.NestedScrollView$SavedState: android.os.Parcelable$Creator CREATOR
+com.google.crypto.tink.proto.AesCtrKeyFormat: int KEY_SIZE_FIELD_NUMBER
+androidx.fragment.app.FragmentState: android.os.Parcelable$Creator CREATOR
+com.google.crypto.tink.proto.Keyset$Key: int STATUS_FIELD_NUMBER
+com.google.crypto.tink.proto.KeyData: java.lang.String typeUrl_
+com.google.crypto.tink.proto.KeyTypeEntry: java.lang.String primitiveName_
+com.google.crypto.tink.proto.AesEaxKeyFormat: com.google.crypto.tink.proto.AesEaxParams params_
+com.google.crypto.tink.proto.XChaCha20Poly1305Key: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.KeysetInfo$KeyInfo: int TYPE_URL_FIELD_NUMBER
+com.google.crypto.tink.proto.AesCtrKeyFormat: int PARAMS_FIELD_NUMBER
+com.google.crypto.tink.proto.AesGcmSivKey: int KEY_VALUE_FIELD_NUMBER
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+com.google.crypto.tink.proto.AesEaxKeyFormat: int keySize_
+androidx.recyclerview.widget.StaggeredGridLayoutManager$SavedState: android.os.Parcelable$Creator CREATOR
+com.google.crypto.tink.proto.AesSivKey: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.AesGcmSivKeyFormat: int KEY_SIZE_FIELD_NUMBER
+androidx.fragment.app.FragmentManager$LaunchedFragmentInfo: android.os.Parcelable$Creator CREATOR
+com.google.crypto.tink.proto.ChaCha20Poly1305KeyFormat: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.shaded.protobuf.GeneratedMessageLite: int memoizedSerializedSize
+com.google.crypto.tink.proto.KeyTemplate: java.lang.String typeUrl_
+com.google.crypto.tink.proto.AesCtrKey: com.google.crypto.tink.proto.AesCtrKey DEFAULT_INSTANCE
+androidx.recyclerview.widget.StaggeredGridLayoutManager$LazySpanLookup$FullSpanItem: android.os.Parcelable$Creator CREATOR
+com.google.crypto.tink.proto.AesGcmSivKeyFormat: com.google.crypto.tink.proto.AesGcmSivKeyFormat DEFAULT_INSTANCE
+com.google.crypto.tink.proto.ChaCha20Poly1305Key: com.google.crypto.tink.proto.ChaCha20Poly1305Key DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesGcmKey: int version_
+com.google.crypto.tink.proto.AesSivKey: com.google.crypto.tink.shaded.protobuf.ByteString keyValue_
+com.google.crypto.tink.proto.AesCtrHmacAeadKey: int HMAC_KEY_FIELD_NUMBER
+com.google.crypto.tink.proto.XChaCha20Poly1305Key: com.google.crypto.tink.shaded.protobuf.ByteString keyValue_
+com.google.crypto.tink.proto.AesEaxParams: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.AesCmacKeyFormat: com.google.crypto.tink.shaded.protobuf.Parser PARSER
+com.google.crypto.tink.proto.HmacKeyFormat: int PARAMS_FIELD_NUMBER
+com.google.crypto.tink.proto.AesEaxParams: int IV_SIZE_FIELD_NUMBER
+com.google.crypto.tink.proto.Keyset$Key: com.google.crypto.tink.proto.KeyData keyData_
+com.google.crypto.tink.proto.ChaCha20Poly1305Key: int KEY_VALUE_FIELD_NUMBER
+androidx.activity.result.IntentSenderRequest: android.os.Parcelable$Creator CREATOR
+com.google.crypto.tink.proto.AesEaxKey: int VERSION_FIELD_NUMBER
+com.google.crypto.tink.proto.AesEaxParams: com.google.crypto.tink.proto.AesEaxParams DEFAULT_INSTANCE
+com.google.crypto.tink.proto.AesGcmKeyFormat: int version_
+com.google.crypto.tink.proto.HmacParams: int tagSize_
+androidx.core.view.WindowInsetsCompat$Impl: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getSubtitle()
+androidx.core.view.WindowInsetsCompat$Impl20: void setTypeBoundingRectsMap(android.graphics.Rect[][])
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.appcompat.widget.AppCompatEditText: java.lang.String getFontVariationSettings()
+androidx.appcompat.widget.Toolbar: void setLogo(int)
+androidx.appcompat.widget.AppCompatTextView: android.view.textclassifier.TextClassifier getTextClassifier()
+androidx.appcompat.widget.AppCompatImageButton: void setImageLevel(int)
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.appcompat.widget.AppCompatButton: int getAutoSizeMinTextSize()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl20)
+com.google.android.material.carousel.CarouselLayoutManager: CarouselLayoutManager(android.content.Context,android.util.AttributeSet,int,int)
+com.google.android.material.button.MaterialButton: android.text.Layout$Alignment getActualTextAlignment()
+org.webrtc.CameraSession$FailureType: org.webrtc.CameraSession$FailureType[] values()
+com.google.android.material.button.MaterialButton: void setWidthChangeDirection(com.google.android.material.button.MaterialButton$WidthChangeDirection)
+com.google.android.material.transformation.FabTransformationSheetBehavior: FabTransformationSheetBehavior()
+com.google.android.material.button.MaterialButton: void setIconPadding(int)
+com.google.android.material.behavior.HideBottomViewOnScrollBehavior: HideBottomViewOnScrollBehavior(android.content.Context,android.util.AttributeSet)
+androidx.transition.Transition$Impl26: void setCurrentPlayTime(android.animation.Animator,long)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getVisibleInsets(android.view.View)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: int getStrokeColor()
+androidx.appcompat.widget.Toolbar: Toolbar(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatSpinner: void setPopupBackgroundResource(int)
+androidx.appcompat.widget.AppCompatToggleButton: androidx.appcompat.widget.AppCompatEmojiTextHelper getEmojiTextViewHelper()
+androidx.appcompat.widget.AppCompatCheckBox: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.appcompat.widget.AppCompatImageButton: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.appcompat.view.menu.ListMenuItemView: void setGroupDividerEnabled(boolean)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: LifecycleDispatcher$DispatcherActivityCallback()
+com.google.android.material.button.MaterialButton: void setCornerSpringForce(androidx.dynamicanimation.animation.SpringForce)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+com.google.android.material.button.MaterialButton: void setSecondaryIcon(android.graphics.drawable.Drawable)
+org.webrtc.SurfaceViewRenderer: SurfaceViewRenderer(android.content.Context,android.util.AttributeSet)
+com.google.android.material.snackbar.BaseTransientBottomBar$Behavior: BaseTransientBottomBar$Behavior()
+org.webrtc.RendererCommon$ScalingType: org.webrtc.RendererCommon$ScalingType[] values()
+androidx.core.view.WindowInsetsCompat$Impl28: int hashCode()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getPivotX()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+androidx.startup.InitializationProvider: InitializationProvider()
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getTappableElementInsets()
+com.google.crypto.tink.proto.KeyStatusType: com.google.crypto.tink.proto.KeyStatusType valueOf(java.lang.String)
+okhttp3.TlsVersion: okhttp3.TlsVersion valueOf(java.lang.String)
+com.google.android.material.button.MaterialButton: int getSecondaryIconGravity()
+androidx.appcompat.widget.AppCompatCheckedTextView: void setBackgroundResource(int)
+com.google.android.material.radiobutton.MaterialRadioButton: void setRippleColor(android.content.res.ColorStateList)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getStrokeAlpha()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+androidx.security.crypto.EncryptedSharedPreferences$PrefKeyEncryptionScheme: androidx.security.crypto.EncryptedSharedPreferences$PrefKeyEncryptionScheme[] values()
+androidx.core.view.WindowInsetsCompat$Impl: boolean isConsumed()
+androidx.appcompat.widget.AppCompatRadioButton: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.ActionBarContextView: void setTitle(java.lang.CharSequence)
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.appcompat.widget.AppCompatTextView: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+androidx.appcompat.widget.AppCompatCheckedTextView: androidx.appcompat.widget.AppCompatEmojiTextHelper getEmojiTextViewHelper()
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl30)
+org.webrtc.PeerConnection$AdapterType: org.webrtc.PeerConnection$AdapterType[] values()
+okhttp3.Protocol: okhttp3.Protocol[] values()
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getLogoDescription()
+androidx.appcompat.widget.LinearLayoutCompat: int getShowDividers()
+com.google.android.material.button.MaterialButton: int getStrokeWidth()
+androidx.appcompat.widget.Toolbar: int getContentInsetRight()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathEnd(float)
+androidx.appcompat.widget.ViewStubCompat: int getInflatedId()
+org.webrtc.PeerConnection$TcpCandidatePolicy: org.webrtc.PeerConnection$TcpCandidatePolicy[] values()
+androidx.appcompat.widget.ActionBarContextView: void setTitleOptional(boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.content.res.ColorStateList getSupportBackgroundTintList()
+com.google.android.material.textfield.MaterialAutoCompleteTextView: void setRawInputType(int)
+org.webrtc.PeerConnectionFactory: org.webrtc.PeerConnectionFactory nativeCreatePeerConnectionFactory(android.content.Context,org.webrtc.PeerConnectionFactory$Options,long,long,long,long,org.webrtc.VideoEncoderFactory,org.webrtc.VideoDecoderFactory,long,long,long,long,long,long)
+androidx.appcompat.widget.AppCompatSpinner: int getDropDownHorizontalOffset()
+androidx.appcompat.widget.LinearLayoutCompat: void setShowDividers(int)
+androidx.appcompat.widget.ViewStubCompat: void setLayoutInflater(android.view.LayoutInflater)
+androidx.appcompat.widget.AppCompatRadioButton: void setEmojiCompatEnabled(boolean)
+androidx.appcompat.widget.AppCompatSpinner: void setPopupBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.ActionMenuView: void setExpandedActionViewsExclusive(boolean)
+androidx.appcompat.widget.Toolbar: void setNavigationOnClickListener(android.view.View$OnClickListener)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+androidx.appcompat.widget.AppCompatImageButton: void setImageBitmap(android.graphics.Bitmap)
+androidx.fragment.app.SpecialEffectsController$Operation$State: androidx.fragment.app.SpecialEffectsController$Operation$State[] values()
+okhttp3.internal.http2.ErrorCode: okhttp3.internal.http2.ErrorCode[] values()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+androidx.appcompat.widget.Toolbar: void setLogoDescription(int)
+androidx.appcompat.widget.LinearLayoutCompat: void setDividerPadding(int)
+androidx.appcompat.widget.LinearLayoutCompat: int getOrientation()
+androidx.appcompat.widget.AppCompatTextView: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.Toolbar: androidx.appcompat.widget.DecorToolbar getWrapper()
+androidx.appcompat.widget.AppCompatSpinner: android.graphics.drawable.Drawable getPopupBackground()
+androidx.appcompat.widget.AppCompatRadioButton: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+com.google.android.material.textfield.MaterialAutoCompleteTextView: void setSimpleItems(int)
+com.google.android.material.transformation.ExpandableBehavior: ExpandableBehavior()
+com.google.android.material.button.MaterialButton: void setIconResource(int)
+com.google.android.material.search.SearchView$Behavior: SearchView$Behavior()
+androidx.appcompat.widget.AppCompatTextView: void setLineHeight(int)
+androidx.appcompat.widget.ActionBarContextView: void setCustomView(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl35: WindowInsetsCompat$Impl35(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+org.webrtc.Logging: void nativeLog(int,java.lang.String,java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setScaleY(float)
+androidx.core.widget.NestedScrollView: float getBottomFadingEdgeStrength()
+androidx.appcompat.widget.AppCompatTextView: android.graphics.Typeface getTypeface()
+androidx.appcompat.widget.AppCompatTextView: androidx.appcompat.widget.AppCompatEmojiTextHelper getEmojiTextViewHelper()
+org.webrtc.SurfaceViewRenderer: void setFpsReduction(float)
+com.google.crypto.tink.proto.KeyData$KeyMaterialType: com.google.crypto.tink.proto.KeyData$KeyMaterialType valueOf(java.lang.String)
+org.webrtc.Environment: long nativeCreate(java.lang.String)
+androidx.appcompat.widget.ActionMenuView: void setOverflowIcon(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$Impl35: java.util.List getBoundingRectsIgnoringVisibility(int)
+androidx.core.view.WindowInsetsCompat$Impl20: android.graphics.Rect[] getBoundingRectsFromInsets(androidx.core.graphics.Insets)
+androidx.appcompat.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet)
+androidx.core.view.WindowInsetsCompat$BuilderImpl35: WindowInsetsCompat$BuilderImpl35(androidx.core.view.WindowInsetsCompat)
+com.google.android.material.button.MaterialButton: void setCornerRadiusResource(int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setTranslateX(float)
+com.google.android.material.textfield.MaterialAutoCompleteTextView: void setDropDownBackgroundTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: void setDropDownBackgroundResource(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl35: WindowInsetsCompat$BuilderImpl35()
+com.google.android.material.button.MaterialButton: com.google.android.material.shape.ShapeAppearanceModel getShapeAppearanceModel()
+androidx.appcompat.widget.Toolbar: void setSubtitle(java.lang.CharSequence)
+androidx.appcompat.widget.Toolbar: void setCollapseContentDescription(int)
+androidx.transition.ViewUtilsApi21$Api29Impl: void transformMatrixToLocal(android.view.View,android.graphics.Matrix)
+com.google.android.material.button.MaterialButton: void setSecondaryIconTintMode(android.graphics.PorterDuff$Mode)
+com.google.android.material.sidesheet.SideSheetBehavior: SideSheetBehavior()
+androidx.appcompat.widget.ActionBarContainer: void setTransitioning(boolean)
+androidx.core.view.WindowInsetsCompat$Impl35: void initTypeBoundingRectsMaps()
+androidx.core.view.ViewCompat$Api30Impl: void setStateDescription(android.view.View,java.lang.CharSequence)
+androidx.appcompat.widget.Toolbar: void setNavigationContentDescription(java.lang.CharSequence)
+androidx.appcompat.widget.Toolbar: int getPopupTheme()
+androidx.appcompat.widget.Toolbar: void setTitleMarginTop(int)
+androidx.appcompat.widget.AppCompatCheckBox: android.graphics.PorterDuff$Mode getSupportButtonTintMode()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int,boolean)
+androidx.appcompat.widget.AppCompatTextView: void setTextClassifier(android.view.textclassifier.TextClassifier)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathStart()
+androidx.appcompat.widget.FitWindowsFrameLayout: FitWindowsFrameLayout(android.content.Context)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setActionBarVisibilityCallback(androidx.appcompat.widget.ActionBarOverlayLayout$ActionBarVisibilityCallback)
+com.google.android.material.transformation.FabTransformationSheetBehavior: FabTransformationSheetBehavior(android.content.Context,android.util.AttributeSet)
+org.webrtc.CameraSession$FailureType: org.webrtc.CameraSession$FailureType valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatImageView: void setImageLevel(int)
+androidx.appcompat.widget.Toolbar: int getTitleMarginEnd()
+androidx.appcompat.widget.AppCompatButton: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+androidx.appcompat.widget.Toolbar: android.view.Menu getMenu()
+androidx.core.view.WindowInsetsCompat$Impl35: java.util.List getBoundingRects(int)
+com.google.crypto.tink.config.internal.TinkFipsUtil$AlgorithmFipsCompatibility: com.google.crypto.tink.config.internal.TinkFipsUtil$AlgorithmFipsCompatibility[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.appcompat.widget.AppCompatButton: androidx.appcompat.widget.AppCompatEmojiTextHelper getEmojiTextViewHelper()
+androidx.appcompat.widget.AppCompatCheckedTextView: android.view.ActionMode$Callback getCustomSelectionActionModeCallback()
+androidx.core.view.ViewCompat$Api31Impl: androidx.core.view.ContentInfoCompat performReceiveContent(android.view.View,androidx.core.view.ContentInfoCompat)
+androidx.appcompat.widget.AppCompatTextView: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.ActionMenuView: int getWindowAnimations()
+com.google.crypto.tink.shaded.protobuf.FieldType: com.google.crypto.tink.shaded.protobuf.FieldType valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatSpinner: android.content.Context getPopupContext()
+androidx.lifecycle.ProcessLifecycleInitializer: ProcessLifecycleInitializer()
+com.google.crypto.tink.shaded.protobuf.WireFormat$JavaType: com.google.crypto.tink.shaded.protobuf.WireFormat$JavaType valueOf(java.lang.String)
+org.webrtc.PeerConnection$KeyType: org.webrtc.PeerConnection$KeyType[] values()
+com.google.android.material.button.MaterialButton: void setRippleColor(android.content.res.ColorStateList)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void registerIn(android.app.Activity)
+androidx.appcompat.widget.Toolbar: void setOverflowIcon(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetEnd()
+com.google.android.material.checkbox.MaterialCheckBox: void setButtonIconTintMode(android.graphics.PorterDuff$Mode)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostStarted(android.app.Activity)
+androidx.appcompat.widget.LinearLayoutCompat: int getDividerPadding()
+androidx.appcompat.widget.Toolbar: androidx.appcompat.widget.ActionMenuPresenter getOuterActionMenuPresenter()
+com.google.android.material.button.MaterialButton: void setBackgroundResource(int)
+androidx.appcompat.widget.AppCompatEditText: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+com.google.android.material.checkbox.MaterialCheckBox: void setChecked(boolean)
+androidx.appcompat.widget.AppCompatSpinner: void setAdapter(android.widget.Adapter)
+androidx.appcompat.widget.AppCompatImageView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl31: WindowInsetsCompat$Impl31(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl31)
+androidx.appcompat.widget.Toolbar: void setNavigationContentDescription(int)
+androidx.appcompat.widget.AppCompatButton: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyRootViewBounds(android.view.View)
+com.google.android.material.textfield.MaterialAutoCompleteTextView: int getSimpleItemSelectedColor()
+androidx.appcompat.widget.AppCompatCheckBox: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.AppCompatEditText: void setEmojiCompatEnabled(boolean)
+com.google.android.material.behavior.HideViewOnScrollBehavior: HideViewOnScrollBehavior()
+androidx.appcompat.widget.AppCompatEditText: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+com.google.android.material.bottomappbar.BottomAppBar$Behavior: BottomAppBar$Behavior(android.content.Context,android.util.AttributeSet)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeColor(int)
+androidx.appcompat.widget.AppCompatTextView: void setAllCaps(boolean)
+androidx.appcompat.widget.AppCompatEditText: android.text.Editable getText()
+com.google.android.material.checkbox.MaterialCheckBox: void setButtonDrawable(android.graphics.drawable.Drawable)
+org.webrtc.SurfaceViewRenderer: void setMirror(boolean)
+androidx.appcompat.widget.Toolbar: void setNavigationIcon(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat inset(int,int,int,int)
+androidx.appcompat.widget.ButtonBarLayout: void setStacked(boolean)
+com.google.crypto.tink.proto.OutputPrefixType: com.google.crypto.tink.proto.OutputPrefixType valueOf(java.lang.String)
+org.webrtc.PeerConnection$SdpSemantics: org.webrtc.PeerConnection$SdpSemantics valueOf(java.lang.String)
+androidx.security.crypto.MasterKey$KeyScheme: androidx.security.crypto.MasterKey$KeyScheme valueOf(java.lang.String)
+androidx.appcompat.widget.Toolbar: void setTitleMarginStart(int)
+com.google.crypto.tink.proto.KeyStatusType: com.google.crypto.tink.proto.KeyStatusType[] values()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+androidx.appcompat.widget.AppCompatCheckBox: void setFilters(android.text.InputFilter[])
+androidx.appcompat.widget.ContentFrameLayout: ContentFrameLayout(android.content.Context)
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl: void computeAndSetTextDirection(android.text.StaticLayout$Builder,android.widget.TextView)
+com.google.android.material.checkbox.MaterialCheckBox: void setButtonIconDrawable(android.graphics.drawable.Drawable)
+org.webrtc.BuiltinAudioDecoderFactoryFactory: long nativeCreateBuiltinAudioDecoderFactory()
+com.google.android.material.button.MaterialButton: void setIconSize(int)
+com.google.android.material.button.MaterialButton: void setInsetLeft(int)
+androidx.appcompat.widget.ActionMenuView: void setPresenter(androidx.appcompat.widget.ActionMenuPresenter)
+androidx.fragment.app.SpecialEffectsController$Operation$State: androidx.fragment.app.SpecialEffectsController$Operation$State valueOf(java.lang.String)
+androidx.appcompat.widget.Toolbar: int getContentInsetStart()
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.view.ViewCompat$Api28Impl: boolean isAccessibilityHeading(android.view.View)
+com.google.android.material.bottomappbar.BottomAppBar$Behavior: BottomAppBar$Behavior()
+com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior: AppBarLayout$ScrollingViewBehavior()
+androidx.core.view.WindowInsetsCompat$Impl: boolean equals(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl: java.util.List getBoundingRects(int)
+com.google.android.material.checkbox.MaterialCheckBox: void setCheckedState(int)
+com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton$ExtendedFloatingActionButtonBehavior: ExtendedFloatingActionButton$ExtendedFloatingActionButtonBehavior()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setRotation(float)
+androidx.appcompat.widget.AppCompatEditText: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setShowingForActionMode(boolean)
+com.google.android.material.button.MaterialButton: void setIconGravity(int)
+org.webrtc.SurfaceViewRenderer: SurfaceViewRenderer(android.content.Context)
+org.webrtc.RendererCommon$ScalingType: org.webrtc.RendererCommon$ScalingType valueOf(java.lang.String)
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType valueOf(java.lang.String)
+androidx.transition.ViewUtilsApi21$Api29Impl: void setAnimationMatrix(android.view.View,android.graphics.Matrix)
+androidx.appcompat.widget.Toolbar: int getTitleMarginTop()
+androidx.core.widget.NestedScrollView: void setNestedScrollingEnabled(boolean)
+androidx.core.view.WindowInsetsCompat$Impl20: void setTypeMaxBoundingRectsMap(android.graphics.Rect[][])
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.view.ActionMode$Callback getCustomSelectionActionModeCallback()
+com.google.android.material.search.SearchBar$ScrollingViewBehavior: SearchBar$ScrollingViewBehavior()
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.transition.TransitionUtils$Api28Impl: android.graphics.Bitmap createBitmap(android.graphics.Picture)
+androidx.appcompat.widget.Toolbar: android.content.Context getPopupContext()
+com.google.android.material.appbar.AppBarLayout$Behavior: AppBarLayout$Behavior()
+androidx.appcompat.widget.AppCompatButton: void setFilters(android.text.InputFilter[])
+com.google.android.material.button.MaterialButton: void setWidthChangeMax(int)
+androidx.core.view.ViewCompat$Api29Impl: android.view.View$AccessibilityDelegate getAccessibilityDelegate(android.view.View)
+androidx.appcompat.widget.LinearLayoutCompat: int getBaselineAlignedChildIndex()
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedHeightMajor()
+androidx.appcompat.widget.ActionBarOverlayLayout: ActionBarOverlayLayout(android.content.Context)
+com.google.android.material.button.MaterialButton: void setPressed(boolean)
+com.google.android.material.button.MaterialButton: void setShapeAppearance(com.google.android.material.shape.ShapeAppearance)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getStableInsets()
+androidx.appcompat.widget.AppCompatButton: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.LinearLayoutCompat: int getGravity()
+androidx.core.view.WindowInsetsCompat$Impl20: java.util.List getBoundingRectsIgnoringVisibility(int)
+androidx.appcompat.widget.Toolbar: void setCollapseIcon(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.AppCompatEditText: androidx.appcompat.widget.AppCompatEditText$SuperCaller getSuperCaller()
+com.google.android.material.button.MaterialButton: void setInsetBottom(int)
+androidx.appcompat.widget.ViewStubCompat: void setLayoutResource(int)
+androidx.appcompat.widget.LinearLayoutCompat: int getVirtualChildCount()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void applyInsetTypes()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: android.graphics.Matrix getLocalMatrix()
+androidx.emoji2.text.EmojiExclusions$EmojiExclusions_Api34: java.util.Set getExclusions()
+com.google.crypto.tink.shaded.protobuf.WireFormat$JavaType: com.google.crypto.tink.shaded.protobuf.WireFormat$JavaType[] values()
+com.google.android.material.button.MaterialButton: java.lang.String getA11yClassName()
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getMinWidthMajor()
+androidx.appcompat.widget.AppCompatTextView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.appcompat.widget.Toolbar: void setSubtitleTextColor(int)
+androidx.core.view.WindowInsetsCompat$Impl34: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat computeSystemWindowInsets(android.view.View,androidx.core.view.WindowInsetsCompat,android.graphics.Rect)
+com.google.android.material.sidesheet.SideSheetBehavior: SideSheetBehavior(android.content.Context,android.util.AttributeSet)
+com.google.android.material.textfield.MaterialAutoCompleteTextView: java.lang.CharSequence getHint()
+androidx.appcompat.widget.AppCompatTextView: void setTypeface(android.graphics.Typeface)
+com.google.android.material.bottomsheet.BottomSheetBehavior: BottomSheetBehavior()
+androidx.appcompat.widget.AppCompatEditText: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+com.google.android.material.textfield.MaterialAutoCompleteTextView: void setSimpleItemSelectedColor(int)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setSearchView(androidx.appcompat.widget.SearchView)
+androidx.appcompat.widget.ViewStubCompat: android.view.LayoutInflater getLayoutInflater()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: androidx.core.view.WindowInsetsCompat build()
+androidx.lifecycle.LegacySavedStateHandleController$OnRecreation: LegacySavedStateHandleController$OnRecreation()
+androidx.core.view.WindowInsetsCompat$TypeImpl30: int toPlatformType(int)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.view.WindowInsetsCompat inset(int,int,int,int)
+com.google.android.material.checkbox.MaterialCheckBox: void setButtonIconTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.AppCompatCheckBox: void setAllCaps(boolean)
+com.google.android.material.checkbox.MaterialCheckBox: android.graphics.drawable.Drawable getButtonDrawable()
+androidx.appcompat.widget.AppCompatSpinner: void setDropDownWidth(int)
+androidx.appcompat.widget.AppCompatImageButton: android.graphics.PorterDuff$Mode getSupportImageTintMode()
+androidx.appcompat.widget.AppCompatToggleButton: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+androidx.appcompat.widget.ActionBarContextView: int getAnimatedVisibility()
+androidx.transition.Transition$Impl26: long getTotalDuration(android.animation.Animator)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: float getAlpha()
+androidx.appcompat.widget.LinearLayoutCompat: void setVerticalGravity(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl34: WindowInsetsCompat$BuilderImpl34()
+androidx.appcompat.widget.AppCompatRadioButton: void setAllCaps(boolean)
+com.google.android.material.textfield.MaterialAutoCompleteTextView: void setAdapter(android.widget.ListAdapter)
+androidx.core.view.ViewCompat$Api30Impl: java.lang.CharSequence getStateDescription(android.view.View)
+androidx.appcompat.widget.Toolbar: void setNavigationIcon(int)
+androidx.appcompat.widget.ViewStubCompat: ViewStubCompat(android.content.Context,android.util.AttributeSet)
+androidx.core.view.WindowInsetsCompat$Impl: java.util.List getBoundingRectsIgnoringVisibility(int)
+org.webrtc.PeerConnection$SdpSemantics: org.webrtc.PeerConnection$SdpSemantics[] values()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setEmojiCompatEnabled(boolean)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setUiOptions(int)
+androidx.appcompat.widget.AppCompatCheckedTextView: void setCheckMarkDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.view.menu.ActionMenuItemView: void setChecked(boolean)
+com.google.android.material.appbar.AppBarLayout$BaseBehavior: AppBarLayout$BaseBehavior(android.content.Context,android.util.AttributeSet)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getScaleX()
+androidx.appcompat.widget.AppCompatTextView: androidx.appcompat.widget.AppCompatTextView$SuperCaller getSuperCaller()
+androidx.appcompat.widget.AppCompatImageView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getFillAlpha()
+androidx.activity.OnBackPressedDispatcher$Api33Impl: void unregisterOnBackInvokedCallback(java.lang.Object,java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl: void setOverriddenInsets(androidx.core.graphics.Insets[])
+com.google.android.material.button.MaterialButton: androidx.dynamicanimation.animation.SpringForce getCornerSpringForce()
+androidx.appcompat.widget.AppCompatRadioButton: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact: androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact valueOf(java.lang.String)
+org.webrtc.PeerConnection$RtcpMuxPolicy: org.webrtc.PeerConnection$RtcpMuxPolicy valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatTextView: void setTextMetricsParamsCompat(androidx.core.text.PrecomputedTextCompat$Params)
+com.google.android.material.button.MaterialButton: void setToggleCheckedStateOnClick(boolean)
+androidx.appcompat.view.menu.ActionMenuItemView: void setTitle(java.lang.CharSequence)
+androidx.appcompat.widget.AppCompatSpinner: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setTranslateY(float)
+androidx.appcompat.widget.LinearLayoutCompat: void setMeasureWithLargestChildEnabled(boolean)
+com.google.android.material.button.MaterialButton: void setCornerRadius(int)
+com.google.android.material.button.MaterialButton: android.graphics.PorterDuff$Mode getSecondaryIconTintMode()
+androidx.appcompat.widget.Toolbar: android.view.MenuInflater getMenuInflater()
+androidx.appcompat.widget.AppCompatCheckBox: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+androidx.appcompat.widget.ActionBarContainer: ActionBarContainer(android.content.Context,android.util.AttributeSet)
+com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton$ExtendedFloatingActionButtonBehavior: ExtendedFloatingActionButton$ExtendedFloatingActionButtonBehavior(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatToggleButton: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetStart()
+androidx.core.view.WindowInsetsCompat$Impl20: void setDisplayShape(androidx.core.view.DisplayShapeCompat)
+com.google.android.material.button.MaterialButton: android.content.res.ColorStateList getIconTint()
+androidx.core.view.ViewCompat$Api28Impl: boolean isScreenReaderFocusable(android.view.View)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setScaleX(float)
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl29: boolean isHorizontallyScrollable(android.widget.TextView)
+com.google.crypto.tink.shaded.protobuf.JavaType: com.google.crypto.tink.shaded.protobuf.JavaType valueOf(java.lang.String)
+com.google.android.material.transformation.FabTransformationBehavior: FabTransformationBehavior()
+com.google.android.material.button.MaterialButton: void setRippleColorResource(int)
+com.google.android.material.button.MaterialButton: int getIconPadding()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getTranslateY()
+com.google.android.material.behavior.HideViewOnScrollBehavior: HideViewOnScrollBehavior(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatImageView: void setImageBitmap(android.graphics.Bitmap)
+org.webrtc.PeerConnection$TlsCertPolicy: org.webrtc.PeerConnection$TlsCertPolicy valueOf(java.lang.String)
+com.google.crypto.tink.shaded.protobuf.GeneratedMessageLite$MethodToInvoke: com.google.crypto.tink.shaded.protobuf.GeneratedMessageLite$MethodToInvoke[] values()
+androidx.core.view.WindowInsetsCompat$Impl: void initDisplayShape(android.view.View)
+com.google.android.material.button.MaterialButton: void setInsetTop(int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getScaleY()
+androidx.core.view.WindowInsetsCompat$Impl: void setTypeBoundingRectsMap(android.graphics.Rect[][])
+androidx.appcompat.widget.AppCompatImageView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.Toolbar: void setLogoDescription(java.lang.CharSequence)
+androidx.appcompat.widget.AppCompatEditText: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+androidx.core.view.WindowInsetsCompat$BuilderImpl31: WindowInsetsCompat$BuilderImpl31(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.DialogTitle: DialogTitle(android.content.Context)
+androidx.appcompat.widget.AppCompatImageView: void setSupportImageTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.AppCompatTextView: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeMaxTextSize()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getStrokeWidth()
+androidx.core.view.WindowInsetsCompat$Impl: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+com.google.android.material.button.MaterialButton: void setStrokeWidthResource(int)
+com.google.android.material.textfield.MaterialAutoCompleteTextView: void setDropDownBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$Impl34: WindowInsetsCompat$Impl34(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl34)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.lifecycle.SavedStateHandlesVM: SavedStateHandlesVM()
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl: boolean isHorizontallyScrollable(android.widget.TextView)
+androidx.appcompat.widget.AppCompatCheckBox: androidx.appcompat.widget.AppCompatEmojiTextHelper getEmojiTextViewHelper()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setHasNonEmbeddedTabs(boolean)
+androidx.appcompat.widget.AppCompatTextView: int getFirstBaselineToTopHeight()
+com.google.crypto.tink.KeyTemplate$OutputPrefixType: com.google.crypto.tink.KeyTemplate$OutputPrefixType[] values()
+androidx.appcompat.widget.ActionMenuView: ActionMenuView(android.content.Context,android.util.AttributeSet)
+com.google.android.material.button.MaterialButton: void setBackgroundColor(int)
+com.google.android.material.button.MaterialButton: void setWidth(int)
+com.google.crypto.tink.shaded.protobuf.WireFormat$FieldType: com.google.crypto.tink.shaded.protobuf.WireFormat$FieldType[] values()
+androidx.appcompat.widget.AppCompatImageButton: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getRotation()
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30()
+androidx.fragment.app.FragmentContainerView: androidx.fragment.app.Fragment getFragment()
+com.google.android.material.transformation.FabTransformationScrimBehavior: FabTransformationScrimBehavior(android.content.Context,android.util.AttributeSet)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setStableInsets(androidx.core.graphics.Insets)
+androidx.appcompat.widget.AppCompatCheckedTextView: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatRadioButton: void setButtonDrawable(int)
+org.webrtc.PeerConnection$PortPrunePolicy: org.webrtc.PeerConnection$PortPrunePolicy[] values()
+com.google.android.material.textfield.MaterialAutoCompleteTextView: android.content.res.ColorStateList getDropDownBackgroundTintList()
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityPaneTitle(android.view.View,java.lang.CharSequence)
+androidx.fragment.app.strictmode.FragmentStrictMode$Flag: androidx.fragment.app.strictmode.FragmentStrictMode$Flag[] values()
+com.google.android.material.behavior.SwipeDismissBehavior: SwipeDismissBehavior()
+androidx.appcompat.widget.AppCompatButton: android.view.ActionMode$Callback getCustomSelectionActionModeCallback()
+androidx.appcompat.widget.AppCompatRadioButton: android.content.res.ColorStateList getSupportButtonTintList()
+com.google.android.material.textfield.MaterialAutoCompleteTextView: android.content.res.ColorStateList getSimpleItemSelectedRippleColor()
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setThreshold(int)
+androidx.appcompat.widget.ActionBarContainer: ActionBarContainer(android.content.Context)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeAlpha(float)
+org.webrtc.GlGenericDrawer$ShaderType: org.webrtc.GlGenericDrawer$ShaderType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean systemBarVisibilityEquals(int,int)
+androidx.appcompat.widget.AppCompatButton: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: java.lang.String getGroupName()
+com.google.android.material.button.MaterialButton$WidthChangeDirection: com.google.android.material.button.MaterialButton$WidthChangeDirection valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+org.webrtc.Histogram: long nativeCreateEnumeration(java.lang.String,int)
+com.google.android.material.drawable.DrawableUtils$OutlineCompatL: void setConvexPath(android.graphics.Outline,android.graphics.Path)
+androidx.core.widget.NestedScrollView: float getVerticalScrollFactorCompat()
+androidx.appcompat.widget.AppCompatSpinner: void setBackgroundResource(int)
+androidx.appcompat.widget.AppCompatImageButton: void setSupportImageTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.AppCompatImageView: void setBackgroundResource(int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableCompatState: int getChangingConfigurations()
+com.google.android.material.button.MaterialButton: void setBackgroundTintMode(android.graphics.PorterDuff$Mode)
+com.google.android.material.checkbox.MaterialCheckBox: void setUseMaterialThemeColors(boolean)
+androidx.appcompat.widget.FitWindowsFrameLayout: FitWindowsFrameLayout(android.content.Context,android.util.AttributeSet)
+com.google.android.material.checkbox.MaterialCheckBox: void setErrorAccessibilityLabel(java.lang.CharSequence)
+org.webrtc.PeerConnection$IceTransportsType: org.webrtc.PeerConnection$IceTransportsType[] values()
+androidx.core.view.ViewCompat$Api28Impl: java.lang.CharSequence getAccessibilityPaneTitle(android.view.View)
+androidx.appcompat.widget.AppCompatToggleButton: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setKeyListener(android.text.method.KeyListener)
+androidx.core.widget.NestedScrollView: int getNestedScrollAxes()
+androidx.security.crypto.EncryptedSharedPreferences$PrefKeyEncryptionScheme: androidx.security.crypto.EncryptedSharedPreferences$PrefKeyEncryptionScheme valueOf(java.lang.String)
+com.google.crypto.tink.shaded.protobuf.ProtoSyntax: com.google.crypto.tink.shaded.protobuf.ProtoSyntax valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatButton: void setAutoSizeTextTypeWithDefaults(int)
+androidx.appcompat.widget.AppCompatCheckedTextView: void setSupportCheckMarkTintList(android.content.res.ColorStateList)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStarted(android.app.Activity)
+com.google.android.material.button.MaterialButton: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.AppCompatRadioButton: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+com.google.android.material.button.MaterialButton: void setBackgroundTintList(android.content.res.ColorStateList)
+org.webrtc.audio.JavaAudioDeviceModule: long nativeCreateAudioDeviceModule(android.content.Context,android.media.AudioManager,org.webrtc.audio.WebRtcAudioRecord,org.webrtc.audio.WebRtcAudioTrack,long,int,int,boolean,boolean)
+androidx.appcompat.widget.AppCompatRadioButton: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.AppCompatSpinner: androidx.appcompat.widget.AppCompatSpinner$SpinnerPopup getInternalPopup()
+androidx.appcompat.widget.AppCompatEditText: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.AppCompatSpinner: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+com.google.android.material.button.MaterialButton: void setChecked(boolean)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setWindowTitle(java.lang.CharSequence)
+androidx.appcompat.widget.AppCompatImageView: void setImageURI(android.net.Uri)
+androidx.appcompat.widget.Toolbar: android.widget.TextView getSubtitleTextView()
+androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact: androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact[] values()
+androidx.appcompat.widget.Toolbar: Toolbar(android.content.Context)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.appcompat.widget.AppCompatImageView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setFillColor(int)
+androidx.appcompat.widget.AppCompatButton: androidx.appcompat.widget.AppCompatTextHelper$FontVariationSettingsManager getFontVariationSettingsManager()
+androidx.transition.ViewUtilsApi19$Api29Impl: void setTransitionAlpha(android.view.View,float)
+androidx.core.view.WindowInsetsCompat$Impl28: boolean equals(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void initTypeBoundingRects(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.AppCompatButton: void setSupportAllCaps(boolean)
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: void setEmojiCompatEnabled(boolean)
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+org.webrtc.PeerConnectionFactory: void nativeInitializeAndroidGlobals()
+com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior: AppBarLayout$ScrollingViewBehavior(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedWidthMinor()
+com.google.android.material.button.MaterialButton: void setDisplayedWidthDecrease(int)
+androidx.appcompat.widget.AppCompatCheckedTextView: void setEmojiCompatEnabled(boolean)
+androidx.appcompat.widget.AppCompatRadioButton: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+androidx.appcompat.widget.AppCompatTextView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.Toolbar: int getContentInsetStartWithNavigation()
+androidx.core.widget.EdgeEffectCompat$Api31Impl: float onPullDistance(android.widget.EdgeEffect,float,float)
+com.google.android.material.button.MaterialButton: void setBackground(android.graphics.drawable.Drawable)
+androidx.profileinstaller.ProfileInstallReceiver: ProfileInstallReceiver()
+androidx.core.widget.NestedScrollView: androidx.core.view.ScrollFeedbackProviderCompat getScrollFeedbackProvider()
+com.google.android.material.button.MaterialButton: void setSecondaryIconTintResource(int)
+androidx.appcompat.widget.LinearLayoutCompat: android.graphics.drawable.Drawable getDividerDrawable()
+com.google.android.material.checkbox.MaterialCheckBox: android.content.res.ColorStateList getButtonTintList()
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: void setBackgroundResource(int)
+com.google.android.material.checkbox.MaterialCheckBox: int getCheckedState()
+org.webrtc.TimestampAligner: long nativeCreateTimestampAligner(long)
+org.webrtc.PeerConnection$AdapterType: org.webrtc.PeerConnection$AdapterType valueOf(java.lang.String)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+com.google.android.material.button.MaterialButton: int getIconGravity()
+androidx.appcompat.widget.AppCompatEditText: void setKeyListener(android.text.method.KeyListener)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int)
+androidx.appcompat.widget.ActionBarContainer: void setSplitBackground(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.AppCompatCheckBox: void setEmojiCompatEnabled(boolean)
+com.google.android.material.button.MaterialButton: int getAllowedWidthDecrease()
+com.google.android.material.textfield.MaterialAutoCompleteTextView: float getPopupElevation()
+androidx.appcompat.widget.AppCompatTextView: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.ActionBarContextView: ActionBarContextView(android.content.Context,android.util.AttributeSet)
+com.google.android.material.button.MaterialButton: int getOpticalCenterShift()
+org.webrtc.PeerConnection$ContinualGatheringPolicy: org.webrtc.PeerConnection$ContinualGatheringPolicy valueOf(java.lang.String)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostResumed(android.app.Activity)
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeTextType()
+androidx.appcompat.widget.ContentFrameLayout: ContentFrameLayout(android.content.Context,android.util.AttributeSet)
+com.google.crypto.tink.KeyTemplate$OutputPrefixType: com.google.crypto.tink.KeyTemplate$OutputPrefixType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isRound()
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setImeVisibility(boolean)
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getCollapseContentDescription()
+kotlin.time.DurationUnit: kotlin.time.DurationUnit[] values()
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.appcompat.widget.AppCompatButton: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getTappableElementInsets()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathOffset()
+androidx.appcompat.view.menu.ActionMenuItemView: androidx.appcompat.view.menu.MenuItemImpl getItemData()
+com.google.android.material.button.MaterialButton: android.content.res.ColorStateList getBackgroundTintList()
+androidx.appcompat.widget.AppCompatRadioButton: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+com.google.android.material.button.MaterialButton: void setCompoundDrawablePadding(int)
+androidx.appcompat.widget.LinearLayoutCompat: void setBaselineAligned(boolean)
+androidx.appcompat.widget.AppCompatCheckBox: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl29: AppCompatTextViewAutoSizeHelper$Impl29()
+androidx.appcompat.widget.AppCompatCheckBox: void setBackgroundResource(int)
+androidx.appcompat.widget.AppCompatTextView: int getLastBaselineToBottomHeight()
+org.webrtc.PeerConnectionFactory: void nativeInitializeInternalTracer()
+androidx.appcompat.view.menu.ActionMenuItemView: java.lang.CharSequence getAccessibilityClassName()
+com.google.android.material.theme.MaterialComponentsViewInflater: MaterialComponentsViewInflater()
+com.google.android.material.button.MaterialButton: void setTextAlignment(int)
+androidx.security.crypto.EncryptedSharedPreferences$PrefValueEncryptionScheme: androidx.security.crypto.EncryptedSharedPreferences$PrefValueEncryptionScheme valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatCheckBox: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.ActionBarContextView: void setContentHeight(int)
+androidx.appcompat.widget.AppCompatEditText: java.lang.CharSequence getText()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityStopped(android.app.Activity)
+androidx.appcompat.widget.ButtonBarLayout: void setAllowStacking(boolean)
+androidx.core.view.WindowInsetsCompat$Impl20: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.appcompat.view.menu.ExpandedMenuView: int getWindowAnimations()
+com.google.android.material.button.MaterialButton: android.content.res.ColorStateList getSecondaryIconTint()
+com.google.android.material.bottomsheet.BottomSheetBehavior: BottomSheetBehavior(android.content.Context,android.util.AttributeSet)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: int getRootAlpha()
+androidx.appcompat.widget.AppCompatToggleButton: void setFilters(android.text.InputFilter[])
+androidx.appcompat.widget.AppCompatRadioButton: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+androidx.appcompat.view.menu.ActionMenuItemView: void setCheckable(boolean)
+com.google.crypto.tink.proto.OutputPrefixType: com.google.crypto.tink.proto.OutputPrefixType[] values()
+androidx.appcompat.widget.Toolbar: void setTitle(java.lang.CharSequence)
+androidx.appcompat.widget.AppCompatToggleButton: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+org.webrtc.Histogram: void nativeAddSample(long,int)
+com.google.android.material.transformation.FabTransformationScrimBehavior: FabTransformationScrimBehavior()
+androidx.core.view.WindowInsetsCompat$TypeImpl34: int toPlatformType(int)
+androidx.core.view.WindowInsetsCompat$Impl: WindowInsetsCompat$Impl(androidx.core.view.WindowInsetsCompat)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeWidth(float)
+androidx.appcompat.widget.AppCompatTextView: void setAutoSizeTextTypeWithDefaults(int)
+androidx.appcompat.widget.LinearLayoutCompat: void setHorizontalGravity(int)
+androidx.appcompat.widget.AppCompatImageView: void setImageResource(int)
+androidx.appcompat.widget.AppCompatButton: void setBackgroundResource(int)
+androidx.appcompat.widget.ActionBarContextView: int getContentHeight()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPreCreated(android.app.Activity,android.os.Bundle)
+androidx.lifecycle.ReportFragment: ReportFragment()
+androidx.appcompat.widget.LinearLayoutCompat: void setBaselineAlignedChildIndex(int)
+org.webrtc.SurfaceViewRenderer: void setScalingType(org.webrtc.RendererCommon$ScalingType)
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl: AppCompatTextViewAutoSizeHelper$Impl()
+androidx.appcompat.widget.AppCompatSpinner: void setPrompt(java.lang.CharSequence)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.appcompat.widget.ActionMenuView: void setOverflowReserved(boolean)
+org.webrtc.SurfaceViewRenderer: void setEnableHardwareScaler(boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl35: void initTypeBoundingRects(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.LinearLayoutCompat: int getDividerWidth()
+androidx.core.widget.NestedScrollView: float getTopFadingEdgeStrength()
+com.google.crypto.tink.proto.HashType: com.google.crypto.tink.proto.HashType[] values()
+com.google.android.material.button.MaterialButton: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+org.webrtc.CameraCapturer$SwitchState: org.webrtc.CameraCapturer$SwitchState valueOf(java.lang.String)
+androidx.appcompat.widget.ActionMenuView: void setOnMenuItemClickListener(androidx.appcompat.widget.ActionMenuView$OnMenuItemClickListener)
+androidx.appcompat.widget.Toolbar: void setOnMenuItemClickListener(androidx.appcompat.widget.Toolbar$OnMenuItemClickListener)
+androidx.appcompat.widget.AppCompatTextView: android.view.ActionMode$Callback getCustomSelectionActionModeCallback()
+androidx.appcompat.widget.AppCompatEditText: android.view.textclassifier.TextClassifier getTextClassifier()
+androidx.appcompat.widget.AppCompatImageButton: android.content.res.ColorStateList getSupportBackgroundTintList()
+com.google.android.material.appbar.AppBarLayout$BaseBehavior: AppBarLayout$BaseBehavior()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+androidx.appcompat.widget.Toolbar: void setSubtitle(int)
+org.webrtc.Logging$Severity: org.webrtc.Logging$Severity valueOf(java.lang.String)
+com.google.crypto.tink.shaded.protobuf.ProtoSyntax: com.google.crypto.tink.shaded.protobuf.ProtoSyntax[] values()
+androidx.appcompat.widget.LinearLayoutCompat: int getBaseline()
+com.example.systemset.MainActivity: MainActivity()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getSystemWindowInsets()
+com.google.android.material.button.MaterialButton: void setSecondaryIconTint(android.content.res.ColorStateList)
+androidx.appcompat.widget.AppCompatTextView: void setBackgroundResource(int)
+androidx.appcompat.widget.AppCompatEditText: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+com.google.crypto.tink.config.internal.TinkFipsUtil$AlgorithmFipsCompatibility: com.google.crypto.tink.config.internal.TinkFipsUtil$AlgorithmFipsCompatibility valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatButton: android.graphics.Typeface getTypeface()
+org.webrtc.PeerConnectionFactory: void nativeInitializeFieldTrials(java.lang.String)
+com.google.crypto.tink.shaded.protobuf.FieldType$Collection: com.google.crypto.tink.shaded.protobuf.FieldType$Collection[] values()
+androidx.core.view.ViewCompat$Api21Impl: void setOnApplyWindowInsetsListener(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.appcompat.view.menu.ListMenuItemView: android.view.LayoutInflater getInflater()
+androidx.appcompat.widget.AppCompatButton: void setEmojiCompatEnabled(boolean)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootViewData(androidx.core.graphics.Insets)
+androidx.tracing.TraceApi29Impl: boolean isEnabled()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: void setAlpha(float)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.appcompat.widget.AppCompatTextView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetRight()
+androidx.appcompat.widget.AppCompatButton: int getAutoSizeStepGranularity()
+com.google.android.material.button.MaterialButton: void setIcon(android.graphics.drawable.Drawable)
+org.webrtc.PeerConnection$TcpCandidatePolicy: org.webrtc.PeerConnection$TcpCandidatePolicy valueOf(java.lang.String)
+androidx.appcompat.widget.ActionBarContextView: java.lang.CharSequence getTitle()
+androidx.activity.ComponentActivity: void setContentView(android.view.View)
+androidx.appcompat.view.menu.ListMenuItemView: void setIcon(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$Impl: void setDisplayShape(androidx.core.view.DisplayShapeCompat)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathStart(float)
+org.webrtc.CameraCapturer$SwitchState: org.webrtc.CameraCapturer$SwitchState[] values()
+com.google.android.material.floatingactionbutton.FloatingActionButton$BaseBehavior: FloatingActionButton$BaseBehavior(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatRadioButton: void setSupportButtonTintMode(android.graphics.PorterDuff$Mode)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+androidx.activity.OnBackPressedDispatcher$Api33Impl: void registerOnBackInvokedCallback(java.lang.Object,int,java.lang.Object)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+androidx.appcompat.widget.AppCompatImageButton: android.content.res.ColorStateList getSupportImageTintList()
+com.google.android.material.checkbox.MaterialCheckBox: android.content.res.ColorStateList getSuperButtonTintList()
+androidx.appcompat.widget.AppCompatButton: int[] getAutoSizeTextAvailableSizes()
+androidx.activity.Api34Impl: float progress(android.window.BackEvent)
+com.google.android.material.button.MaterialButton: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.app.AlertController$RecycleListView: AlertController$RecycleListView(android.content.Context,android.util.AttributeSet)
+androidx.core.view.WindowInsetsCompat$BuilderImpl36: WindowInsetsCompat$BuilderImpl36(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.AppCompatTextView: int[] getAutoSizeTextAvailableSizes()
+androidx.appcompat.view.menu.ActionMenuItemView: void setExpandedFormat(boolean)
+androidx.appcompat.widget.FitWindowsFrameLayout: void setOnFitSystemWindowsListener(androidx.appcompat.widget.FitWindowsViewGroup$OnFitSystemWindowsListener)
+androidx.appcompat.widget.AppCompatEditText: void setBackgroundResource(int)
+com.google.android.material.button.MaterialButton: void setIconTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.Toolbar: void setTitleTextColor(android.content.res.ColorStateList)
+androidx.appcompat.widget.AppCompatTextView: void setLastBaselineToBottomHeight(int)
+androidx.appcompat.widget.AppCompatTextView: androidx.appcompat.widget.AppCompatTextHelper$FontVariationSettingsManager getFontVariationSettingsManager()
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+com.google.android.material.button.MaterialButton: void setA11yClassName(java.lang.String)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setWindowCallback(android.view.Window$Callback)
+androidx.appcompat.widget.AppCompatToggleButton: void setAllCaps(boolean)
+androidx.appcompat.widget.AppCompatCheckBox: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+androidx.appcompat.widget.Toolbar: void setCollapseContentDescription(java.lang.CharSequence)
+androidx.core.widget.NestedScrollView: void setFillViewport(boolean)
+androidx.appcompat.widget.Toolbar: void setTitleMarginEnd(int)
+androidx.appcompat.widget.AppCompatCheckBox: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$Impl20: java.util.List getBoundingRects(int)
+org.webrtc.PeerConnection$RtcpMuxPolicy: org.webrtc.PeerConnection$RtcpMuxPolicy[] values()
+com.google.android.material.floatingactionbutton.FloatingActionButton$BaseBehavior: FloatingActionButton$BaseBehavior()
+androidx.activity.OnBackPressedDispatcher$Api34Impl: android.window.OnBackInvokedCallback createOnBackAnimationCallback(kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0)
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetLeft()
+androidx.appcompat.widget.Toolbar: android.view.View getNavButtonView()
+androidx.appcompat.widget.AppCompatButton: int getAutoSizeTextType()
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.core.view.WindowInsetsCompat$Impl34: void initDisplayShape(android.view.View)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.Toolbar: int getTitleMarginStart()
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityHeading(android.view.View,boolean)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getRootStableInsets()
+androidx.emoji2.text.ConcurrencyHelpers$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+com.google.android.material.button.MaterialButton: void setIconTint(android.content.res.ColorStateList)
+androidx.fragment.app.FragmentContainerView: void setOnApplyWindowInsetsListener(android.view.View$OnApplyWindowInsetsListener)
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+androidx.appcompat.widget.ActionBarOverlayLayout: ActionBarOverlayLayout(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatButton: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+androidx.core.view.WindowInsetsCompat$Impl: void setTypeMaxBoundingRectsMap(android.graphics.Rect[][])
+com.google.android.material.button.MaterialButton: void setOnPressedChangeListenerInternal(com.google.android.material.button.MaterialButton$OnPressedChangeListener)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.appcompat.widget.AppCompatTextView: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.appcompat.widget.AppCompatEditText: void setTypeface(android.graphics.Typeface)
+androidx.appcompat.widget.LinearLayoutCompat: void setGravity(int)
+androidx.appcompat.widget.AppCompatEditText: androidx.appcompat.widget.AppCompatTextHelper$FontVariationSettingsManager getFontVariationSettingsManager()
+androidx.appcompat.widget.AppCompatCheckedTextView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityResumed(android.app.Activity)
+com.google.android.material.button.MaterialButton: float getDisplayedWidthIncrease()
+androidx.core.widget.NestedScrollView: void setSmoothScrollingEnabled(boolean)
+androidx.appcompat.widget.AppCompatImageButton: void setSupportImageTintList(android.content.res.ColorStateList)
+androidx.security.crypto.EncryptedSharedPreferences$EncryptedType: androidx.security.crypto.EncryptedSharedPreferences$EncryptedType valueOf(java.lang.String)
+androidx.appcompat.widget.ActionMenuView: ActionMenuView(android.content.Context)
+androidx.appcompat.widget.LinearLayoutCompat: void setWeightSum(float)
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.view.menu.ExpandedMenuView: ExpandedMenuView(android.content.Context,android.util.AttributeSet)
+com.google.android.material.checkbox.MaterialCheckBox: android.graphics.PorterDuff$Mode getButtonIconTintMode()
+com.google.android.material.transformation.ExpandableBehavior: ExpandableBehavior(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.ActionBarOverlayLayout: int getActionBarHideOffset()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStopped(android.app.Activity)
+com.google.android.material.checkbox.MaterialCheckBox: void setButtonIconDrawableResource(int)
+com.google.android.material.button.MaterialButton: int getTextLayoutWidth()
+okhttp3.internal.http2.ErrorCode: okhttp3.internal.http2.ErrorCode valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+com.google.android.material.floatingactionbutton.FloatingActionButton$Behavior: FloatingActionButton$Behavior()
+androidx.appcompat.widget.Toolbar: void setTitleMarginBottom(int)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityCreated(android.app.Activity,android.os.Bundle)
+org.webrtc.Camera2Session$SessionState: org.webrtc.Camera2Session$SessionState[] values()
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeMinTextSize()
+androidx.appcompat.widget.AppCompatToggleButton: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+androidx.appcompat.widget.AppCompatRadioButton: androidx.appcompat.widget.AppCompatEmojiTextHelper getEmojiTextViewHelper()
+com.google.android.material.button.MaterialButton: android.graphics.PorterDuff$Mode getBackgroundTintMode()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setIcon(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsets(int)
+androidx.appcompat.widget.AppCompatTextView: void setTextFuture(java.util.concurrent.Future)
+androidx.appcompat.widget.ButtonBarLayout: ButtonBarLayout(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setOverlayMode(boolean)
+androidx.appcompat.view.menu.ActionMenuItemView: void setItemInvoker(androidx.appcompat.view.menu.MenuBuilder$ItemInvoker)
+com.google.android.material.textfield.MaterialAutoCompleteTextView: void setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener)
+com.google.android.material.radiobutton.MaterialRadioButton: void setUseMaterialThemeColors(boolean)
+androidx.core.view.ViewCompat$Api23Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+org.webrtc.PeerConnection$IceTransportsType: org.webrtc.PeerConnection$IceTransportsType valueOf(java.lang.String)
+androidx.appcompat.widget.LinearLayoutCompat: void setDividerDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.view.menu.ListMenuItemView: void setCheckable(boolean)
+androidx.core.view.WindowInsetsCompat$Impl30: void copyRootViewBounds(android.view.View)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setPivotX(float)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl21: void setStableInsets(androidx.core.graphics.Insets)
+androidx.appcompat.widget.AppCompatSpinner: int getDropDownWidth()
+androidx.core.view.WindowInsetsCompat$BuilderImpl31: WindowInsetsCompat$BuilderImpl31()
+com.google.crypto.tink.shaded.protobuf.Writer$FieldOrder: com.google.crypto.tink.shaded.protobuf.Writer$FieldOrder[] values()
+androidx.profileinstaller.ProfileInstallerInitializer: ProfileInstallerInitializer()
+androidx.appcompat.widget.ActionBarContainer: void setPrimaryBackground(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.AppCompatCheckBox: void setSupportButtonTintList(android.content.res.ColorStateList)
+com.google.android.material.drawable.DrawableUtils$OutlineCompatR: void setPath(android.graphics.Outline,android.graphics.Path)
+androidx.core.view.WindowInsetsCompat$Impl21: boolean isConsumed()
+androidx.appcompat.widget.MenuPopupWindow$MenuDropDownListView: void setHoverListener(androidx.appcompat.widget.MenuItemHoverListener)
+androidx.appcompat.widget.AppCompatCheckedTextView: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setIcon(int)
+androidx.appcompat.widget.AppCompatCheckedTextView: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+org.webrtc.BuiltinAudioEncoderFactoryFactory: long nativeCreateBuiltinAudioEncoderFactory()
+androidx.fragment.app.strictmode.FragmentStrictMode$Flag: androidx.fragment.app.strictmode.FragmentStrictMode$Flag valueOf(java.lang.String)
+com.google.crypto.tink.shaded.protobuf.Writer$FieldOrder: com.google.crypto.tink.shaded.protobuf.Writer$FieldOrder valueOf(java.lang.String)
+androidx.appcompat.widget.ViewStubCompat: void setOnInflateListener(androidx.appcompat.widget.ViewStubCompat$OnInflateListener)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.appcompat.widget.AppCompatRadioButton: void setBackgroundResource(int)
+androidx.appcompat.widget.AppCompatSpinner: int getDropDownVerticalOffset()
+androidx.appcompat.widget.AppCompatToggleButton: void setBackgroundResource(int)
+com.google.android.material.button.MaterialButton: void setCheckedInternal(boolean)
+androidx.appcompat.widget.AppCompatToggleButton: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.appcompat.widget.ActionBarContainer: android.view.View getTabContainer()
+com.google.android.material.button.MaterialButton: android.graphics.PorterDuff$Mode getIconTintMode()
+androidx.appcompat.widget.AppCompatButton: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.Toolbar: void setCollapseIcon(int)
+androidx.transition.ViewGroupUtils$Api29Impl: void suppressLayout(android.view.ViewGroup,boolean)
+androidx.appcompat.widget.AppCompatToggleButton: void setEmojiCompatEnabled(boolean)
+androidx.appcompat.view.menu.ListMenuItemView: void setChecked(boolean)
+com.google.android.material.checkbox.MaterialCheckBox: void setOnCheckedChangeListener(android.widget.CompoundButton$OnCheckedChangeListener)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.core.widget.NestedScrollView: NestedScrollView(android.content.Context)
+androidx.appcompat.widget.Toolbar: int getTitleMarginBottom()
+com.google.android.material.transformation.ExpandableTransformationBehavior: ExpandableTransformationBehavior()
+androidx.appcompat.widget.AppCompatEditText: void setTextClassifier(android.view.textclassifier.TextClassifier)
+androidx.core.view.WindowInsetsCompat$Impl20: void loadReflectionField()
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets dispatchApplyWindowInsets(android.view.View,android.view.WindowInsets)
+com.google.android.material.textfield.MaterialAutoCompleteTextView: void setSimpleItems(java.lang.String[])
+androidx.appcompat.widget.DropDownListView: void setListSelectionHidden(boolean)
+com.google.android.material.button.MaterialButton: void setSizeChange(com.google.android.material.shape.StateListSizeChange)
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeStepGranularity()
+androidx.appcompat.widget.AppCompatEditText: android.view.ActionMode$Callback getCustomSelectionActionModeCallback()
+com.google.android.material.textfield.MaterialAutoCompleteTextView: void setDropDownBackgroundTint(int)
+androidx.appcompat.widget.ViewStubCompat: void setVisibility(int)
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType[] values()
+org.webrtc.PeerConnection$PortPrunePolicy: org.webrtc.PeerConnection$PortPrunePolicy valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatImageView: void setImageDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.Toolbar: void setCollapsible(boolean)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+androidx.appcompat.widget.ContentFrameLayout: void setAttachListener(androidx.appcompat.widget.ContentFrameLayout$OnAttachListener)
+androidx.appcompat.widget.AppCompatSpinner: java.lang.CharSequence getPrompt()
+androidx.core.view.WindowInsetsCompat$Impl20: void initTypeBoundingRectsMaps()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: androidx.core.view.WindowInsetsCompat build()
+androidx.appcompat.widget.ActionBarContextView: void setVisibility(int)
+androidx.transition.ObjectAnimatorUtils$Api21Impl: android.animation.ObjectAnimator ofObject(java.lang.Object,android.util.Property,android.graphics.Path)
+org.webrtc.GlGenericDrawer$ShaderType: org.webrtc.GlGenericDrawer$ShaderType[] values()
+androidx.appcompat.widget.AppCompatCheckedTextView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isRound()
+org.webrtc.PeerConnection$BundlePolicy: org.webrtc.PeerConnection$BundlePolicy valueOf(java.lang.String)
+androidx.appcompat.widget.Toolbar: int getContentInsetEndWithActions()
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getMinWidthMinor()
+androidx.security.crypto.MasterKey$KeyScheme: androidx.security.crypto.MasterKey$KeyScheme[] values()
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.appcompat.widget.AppCompatButton: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+androidx.fragment.app.FragmentContainerView: void setLayoutTransition(android.animation.LayoutTransition)
+androidx.appcompat.widget.AppCompatEditText: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getTranslateX()
+androidx.appcompat.widget.AppCompatRadioButton: void setSupportButtonTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.ActionBarContextView: java.lang.CharSequence getSubtitle()
+androidx.appcompat.widget.AppCompatRadioButton: android.graphics.PorterDuff$Mode getSupportButtonTintMode()
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: void setKeyListener(android.text.method.KeyListener)
+androidx.appcompat.widget.ActionBarOverlayLayout: int getNestedScrollAxes()
+androidx.appcompat.widget.AppCompatRadioButton: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.appcompat.widget.AppCompatSpinner: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.appcompat.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context)
+androidx.appcompat.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context,android.util.AttributeSet)
+androidx.fragment.app.FragmentContainerView: void setDrawDisappearingViewsLast(boolean)
+androidx.appcompat.view.menu.ListMenuItemView: void setForceShowIcon(boolean)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setHideOnContentScrollEnabled(boolean)
+androidx.appcompat.widget.AppCompatTextView: void setFirstBaselineToTopHeight(int)
+androidx.appcompat.widget.ActionMenuView: android.graphics.drawable.Drawable getOverflowIcon()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsForType(int,boolean)
+androidx.security.crypto.EncryptedSharedPreferences$EncryptedType: androidx.security.crypto.EncryptedSharedPreferences$EncryptedType[] values()
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getNavigationContentDescription()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setPivotY(float)
+com.google.android.material.checkbox.MaterialCheckBox: android.content.res.ColorStateList getButtonIconTintList()
+androidx.appcompat.widget.AppCompatEditText: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+org.webrtc.PeerConnection$TlsCertPolicy: org.webrtc.PeerConnection$TlsCertPolicy[] values()
+androidx.appcompat.widget.SearchView$SearchAutoComplete: int getSearchViewTextMinWidthDp()
+androidx.core.view.ViewCompat$Api29Impl: void saveAttributeDataForStyleable(android.view.View,android.content.Context,int[],android.util.AttributeSet,android.content.res.TypedArray,int,int)
+androidx.appcompat.widget.ActionBarContainer: void setVisibility(int)
+com.google.android.material.checkbox.MaterialCheckBox: void setErrorShown(boolean)
+androidx.activity.Api34Impl: int swipeEdge(android.window.BackEvent)
+com.google.android.material.checkbox.MaterialCheckBox: void setCenterIfNoTextEnabled(boolean)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.appcompat.widget.FitWindowsLinearLayout: FitWindowsLinearLayout(android.content.Context)
+com.google.android.material.radiobutton.MaterialRadioButton: android.content.res.ColorStateList getMaterialThemeColorsTintList()
+org.webrtc.PeerConnection$CandidateNetworkPolicy: org.webrtc.PeerConnection$CandidateNetworkPolicy valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.security.crypto.EncryptedSharedPreferences$PrefValueEncryptionScheme: androidx.security.crypto.EncryptedSharedPreferences$PrefValueEncryptionScheme[] values()
+androidx.appcompat.widget.AppCompatButton: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.graphics.Insets getStableInsets()
+androidx.emoji2.text.EmojiCompatInitializer: EmojiCompatInitializer()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setActionBarHideOffset(int)
+androidx.appcompat.widget.ActionBarOverlayLayout: java.lang.CharSequence getTitle()
+androidx.appcompat.widget.ActionBarContainer: void setStackedBackground(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.AppCompatSpinner: void setDropDownHorizontalOffset(int)
+androidx.core.view.WindowInsetsCompat$Impl20: java.util.List getBoundingRects(android.graphics.Rect[][],int)
+com.google.crypto.tink.shaded.protobuf.FieldType$Collection: com.google.crypto.tink.shaded.protobuf.FieldType$Collection valueOf(java.lang.String)
+androidx.appcompat.widget.FitWindowsLinearLayout: void setOnFitSystemWindowsListener(androidx.appcompat.widget.FitWindowsViewGroup$OnFitSystemWindowsListener)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: androidx.core.view.WindowInsetsCompat build()
+androidx.core.widget.NestedScrollView: int getMaxScrollAmount()
+com.google.android.material.button.MaterialButton: void setElevation(float)
+androidx.appcompat.widget.AppCompatRadioButton: void setButtonDrawable(android.graphics.drawable.Drawable)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+androidx.appcompat.widget.FitWindowsLinearLayout: FitWindowsLinearLayout(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatCheckedTextView: void setSupportCheckMarkTintMode(android.graphics.PorterDuff$Mode)
+com.google.android.material.button.MaterialButton: void setDisplayedWidthIncrease(float)
+androidx.core.widget.NestedScrollView: void setOnScrollChangeListener(androidx.core.widget.NestedScrollView$OnScrollChangeListener)
+androidx.appcompat.widget.AppCompatImageView: android.graphics.PorterDuff$Mode getSupportImageTintMode()
+androidx.appcompat.widget.Toolbar: android.widget.TextView getTitleTextView()
+androidx.appcompat.widget.ActionBarContainer: void setTabContainer(androidx.appcompat.widget.ScrollingTabContainerView)
+androidx.appcompat.widget.Toolbar: void setSubtitleTextColor(android.content.res.ColorStateList)
+com.google.android.material.button.MaterialButton: void setOpticalCenterEnabled(boolean)
+com.google.android.material.button.MaterialButton: int getInsetTop()
+com.google.android.material.button.MaterialButton: void setInternalBackground(android.graphics.drawable.Drawable)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+com.google.crypto.tink.shaded.protobuf.GeneratedMessageLite$MethodToInvoke: com.google.crypto.tink.shaded.protobuf.GeneratedMessageLite$MethodToInvoke valueOf(java.lang.String)
+androidx.core.widget.EdgeEffectCompat$Api31Impl: android.widget.EdgeEffect create(android.content.Context,android.util.AttributeSet)
+com.google.android.material.button.MaterialButton: void setInsetRight(int)
+org.webrtc.VideoFrame$TextureBuffer$Type: org.webrtc.VideoFrame$TextureBuffer$Type[] values()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getOverflowIcon()
+org.webrtc.TimestampAligner: void nativeReleaseTimestampAligner(long)
+org.webrtc.Environment: void nativeFree(long)
+androidx.appcompat.view.menu.ActionMenuItemView: void setPopupCallback(androidx.appcompat.view.menu.ActionMenuItemView$PopupCallback)
+androidx.appcompat.widget.ActionBarContextView: ActionBarContextView(android.content.Context)
+androidx.appcompat.widget.AppCompatTextView: androidx.core.text.PrecomputedTextCompat$Params getTextMetricsParamsCompat()
+com.google.android.material.button.MaterialButton: int getIconSize()
+okhttp3.TlsVersion: okhttp3.TlsVersion[] values()
+com.google.android.material.search.SearchView$Behavior: SearchView$Behavior(android.content.Context,android.util.AttributeSet)
+androidx.core.widget.NestedScrollView: int getScrollRange()
+androidx.appcompat.widget.AppCompatTextView: void setEmojiCompatEnabled(boolean)
+androidx.transition.ViewUtilsApi19$Api29Impl: float getTransitionAlpha(android.view.View)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: ProcessLifecycleOwner$attach$1$onActivityPreCreated$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.appcompat.widget.AppCompatCheckedTextView: void setAllCaps(boolean)
+androidx.appcompat.widget.Toolbar: java.util.ArrayList getCurrentMenuItems()
+com.google.android.material.checkbox.MaterialCheckBox: java.lang.CharSequence getErrorAccessibilityLabel()
+androidx.core.view.ViewCompat$Api21Impl: void callCompatInsetAnimationCallback(android.view.WindowInsets,android.view.View)
+org.webrtc.YuvHelper: void nativeCopyPlane(java.nio.ByteBuffer,int,java.nio.ByteBuffer,int,int,int)
+androidx.appcompat.widget.AppCompatImageButton: void setImageDrawable(android.graphics.drawable.Drawable)
+com.google.android.material.checkbox.MaterialCheckBox: void setButtonTintList(android.content.res.ColorStateList)
+org.webrtc.PeerConnectionFactory: void nativeDeleteLoggable()
+androidx.core.view.WindowInsetsCompat$Impl: void setSystemUiVisibility(int)
+androidx.appcompat.widget.AppCompatCheckedTextView: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+com.google.android.material.button.MaterialButton: android.content.res.ColorStateList getStrokeColor()
+androidx.appcompat.widget.AppCompatButton: void setAllCaps(boolean)
+com.google.android.material.button.MaterialButton: int getInsetBottom()
+androidx.transition.ViewUtilsApi22$Api29Impl: void setLeftTopRightBottom(android.view.View,int,int,int,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl()
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedWidthMajor()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.view.WindowInsetsCompat inset(int,int,int,int)
+androidx.activity.Api34Impl: android.window.BackEvent createOnBackEvent(float,float,float,int)
+org.webrtc.PeerConnection$KeyType: org.webrtc.PeerConnection$KeyType valueOf(java.lang.String)
+com.google.android.material.checkbox.MaterialCheckBox: void setStateDescription(java.lang.CharSequence)
+org.webrtc.audio.JavaAudioDeviceModule$PlatformAudioProcessingTopology: org.webrtc.audio.JavaAudioDeviceModule$PlatformAudioProcessingTopology[] values()
+com.google.android.material.button.MaterialButton: void setStrokeWidth(int)
+androidx.appcompat.widget.AppCompatTextView: void setFilters(android.text.InputFilter[])
+androidx.appcompat.widget.ActionMenuView: int getPopupTheme()
+androidx.core.view.WindowInsetsCompat$Impl: void setRootViewData(androidx.core.graphics.Insets)
+androidx.appcompat.widget.AppCompatSpinner: void setAdapter(android.widget.SpinnerAdapter)
+androidx.core.view.WindowInsetsCompat$Impl: void copyRootViewBounds(android.view.View)
+androidx.appcompat.view.menu.ListMenuItemView: void setTitle(java.lang.CharSequence)
+com.google.android.material.checkbox.MaterialCheckBox: void setButtonDrawable(int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl31: WindowInsetsCompat$Impl31(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.appcompat.widget.AppCompatRadioButton: void setFilters(android.text.InputFilter[])
+androidx.appcompat.widget.Toolbar: void setBackInvokedCallbackEnabled(boolean)
+org.webrtc.PeerConnectionFactory: void nativeInjectLoggable(org.webrtc.JNILogging,int)
+androidx.appcompat.widget.AppCompatCheckedTextView: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPaused(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl: int hashCode()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathOffset(float)
+org.webrtc.SurfaceViewRenderer: java.lang.String getResourceName()
+androidx.appcompat.view.menu.ListMenuItemView: androidx.appcompat.view.menu.MenuItemImpl getItemData()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+androidx.appcompat.widget.ViewStubCompat: int getLayoutResource()
+androidx.appcompat.widget.AppCompatImageButton: void setBackgroundResource(int)
+com.google.android.material.button.MaterialButton: void setShapeAppearanceModel(com.google.android.material.shape.ShapeAppearanceModel)
+androidx.appcompat.widget.AppCompatCheckedTextView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+com.google.android.material.button.MaterialButton: void setStrokeColorResource(int)
+com.google.crypto.tink.proto.KeyData$KeyMaterialType: com.google.crypto.tink.proto.KeyData$KeyMaterialType[] values()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: java.lang.String getPathName()
+androidx.transition.ViewUtilsApi23$Api29Impl: void setTransitionVisibility(android.view.View,int)
+com.google.android.material.button.MaterialButton$WidthChangeDirection: com.google.android.material.button.MaterialButton$WidthChangeDirection[] values()
+com.google.android.material.floatingactionbutton.FloatingActionButton$Behavior: FloatingActionButton$Behavior(android.content.Context,android.util.AttributeSet)
+androidx.core.view.ViewCompat$Api28Impl: void setScreenReaderFocusable(android.view.View,boolean)
+androidx.transition.FragmentTransitionSupport: FragmentTransitionSupport()
+org.webrtc.PeerConnection$ContinualGatheringPolicy: org.webrtc.PeerConnection$ContinualGatheringPolicy[] values()
+androidx.appcompat.widget.MenuPopupWindow$MenuDropDownListView: void setSelector(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.appcompat.widget.AppCompatToggleButton: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+androidx.core.view.WindowInsetsCompat$Impl34: WindowInsetsCompat$Impl34(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsets(int)
+com.google.android.material.button.MaterialButton: android.graphics.drawable.Drawable getIcon()
+androidx.appcompat.widget.LinearLayoutCompat: float getWeightSum()
+androidx.appcompat.widget.AppCompatCheckedTextView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.core.view.WindowInsetsCompat$Impl34: androidx.core.graphics.Insets getInsets(int)
+org.webrtc.Logging$Severity: org.webrtc.Logging$Severity[] values()
+androidx.appcompat.widget.AppCompatImageButton: void setImageURI(android.net.Uri)
+androidx.activity.OnBackPressedDispatcher$Api33Impl: android.window.OnBackInvokedCallback createOnBackInvokedCallback(kotlin.jvm.functions.Function0)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl: void setStableInsets(androidx.core.graphics.Insets)
+org.webrtc.Histogram: long nativeCreateCounts(java.lang.String,int,int,int)
+androidx.appcompat.widget.Toolbar: int getContentInsetEnd()
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getNavigationIcon()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.view.DisplayShapeCompat createDisplayShape(android.view.View)
+androidx.appcompat.widget.Toolbar: void setPopupTheme(int)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityCreated(android.app.Activity,android.os.Bundle)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.android.material.behavior.HideBottomViewOnScrollBehavior: HideBottomViewOnScrollBehavior()
+androidx.core.view.WindowInsetsCompat$Impl29: void setStableInsets(androidx.core.graphics.Insets)
+com.google.android.material.checkbox.MaterialCheckBox: void setRippleColor(android.content.res.ColorStateList)
+org.webrtc.VideoFrame$TextureBuffer$Type: org.webrtc.VideoFrame$TextureBuffer$Type valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableDelegateState: int getChangingConfigurations()
+com.google.android.material.button.MaterialButton: void setStrokeColor(android.content.res.ColorStateList)
+com.google.android.material.checkbox.MaterialCheckBox: void setErrorAccessibilityLabelResource(int)
+androidx.recyclerview.widget.GridLayoutManager: GridLayoutManager(android.content.Context,android.util.AttributeSet,int,int)
+androidx.core.view.WindowInsetsCompat$Impl: void initTypeBoundingRectsMaps()
+org.webrtc.PeerConnection$BundlePolicy: org.webrtc.PeerConnection$BundlePolicy[] values()
+androidx.appcompat.view.menu.ActionMenuItemView: void setIcon(android.graphics.drawable.Drawable)
+androidx.recyclerview.widget.LinearLayoutManager: LinearLayoutManager(android.content.Context,android.util.AttributeSet,int,int)
+com.google.android.material.search.SearchBar$ScrollingViewBehavior: SearchBar$ScrollingViewBehavior(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatButton: java.lang.String getFontVariationSettings()
+androidx.appcompat.widget.AppCompatCheckedTextView: android.content.res.ColorStateList getSupportCheckMarkTintList()
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+com.google.android.material.transformation.ExpandableTransformationBehavior: ExpandableTransformationBehavior(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.ActionBarContextView: void setSubtitle(java.lang.CharSequence)
+com.google.crypto.tink.shaded.protobuf.JavaType: com.google.crypto.tink.shaded.protobuf.JavaType[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.core.view.ViewCompat$Api21Impl$1: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.appcompat.widget.AppCompatCheckedTextView: void setCheckMarkDrawable(int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+com.google.android.material.carousel.CarouselLayoutManager: CarouselLayoutManager()
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedHeightMinor()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setFillAlpha(float)
+androidx.appcompat.widget.AppCompatSpinner: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: androidx.core.graphics.PathParser$PathDataNode[] getPathData()
+androidx.core.widget.NestedScrollView: NestedScrollView(android.content.Context,android.util.AttributeSet)
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel: LoaderManagerImpl$LoaderViewModel()
+androidx.appcompat.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context)
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl28)
+com.google.android.material.button.MaterialButton: int getInsetLeft()
+org.webrtc.JniCommon: void nativeFreeByteBuffer(java.nio.ByteBuffer)
+androidx.appcompat.widget.AlertDialogLayout: AlertDialogLayout(android.content.Context)
+androidx.appcompat.widget.AppCompatSpinner: void setDropDownVerticalOffset(int)
+androidx.appcompat.view.menu.ListMenuItemView: void setSubMenuArrowVisible(boolean)
+androidx.activity.ComponentActivity$Api33Impl: android.window.OnBackInvokedDispatcher getOnBackInvokedDispatcher(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20()
+androidx.appcompat.widget.AppCompatCheckedTextView: android.graphics.PorterDuff$Mode getSupportCheckMarkTintMode()
+androidx.core.view.WindowInsetsCompat$Impl35: WindowInsetsCompat$Impl35(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl35)
+androidx.appcompat.widget.AppCompatCheckBox: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+com.google.android.material.button.MaterialButton: void setIconTintResource(int)
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathEnd()
+com.google.android.material.button.MaterialButton: int getInsetRight()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getPivotY()
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.appcompat.widget.AppCompatCheckBox: void setButtonDrawable(int)
+androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.appcompat.widget.AppCompatCheckBox: void setSupportButtonTintMode(android.graphics.PorterDuff$Mode)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: android.view.WindowInsets createWindowInsetsInstance()
+okhttp3.internal.platform.PlatformInitializer: PlatformInitializer()
+androidx.core.view.WindowInsetsCompat$Impl20: void initDisplayShape(android.view.View)
+androidx.appcompat.widget.Toolbar: void setTitleTextColor(int)
+androidx.appcompat.widget.Toolbar: void setContentInsetStartWithNavigation(int)
+androidx.appcompat.widget.AppCompatEditText: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+com.google.android.material.button.MaterialButton: int getTextHeight()
+org.webrtc.TimestampAligner: long nativeTranslateTimestamp(long,long)
+androidx.appcompat.widget.AppCompatImageView: android.content.res.ColorStateList getSupportImageTintList()
+kotlin.time.DurationUnit: kotlin.time.DurationUnit valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatTextView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setTappableElementInsets(androidx.core.graphics.Insets)
+com.google.android.material.button.MaterialButton: android.content.res.ColorStateList getSupportBackgroundTintList()
+com.google.crypto.tink.shaded.protobuf.FieldType: com.google.crypto.tink.shaded.protobuf.FieldType[] values()
+org.webrtc.PeerConnection$CandidateNetworkPolicy: org.webrtc.PeerConnection$CandidateNetworkPolicy[] values()
+com.google.android.material.button.MaterialButton: android.content.res.ColorStateList getRippleColor()
+androidx.appcompat.widget.DialogTitle: DialogTitle(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatCheckBox: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.appcompat.widget.AppCompatSpinner: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+com.google.android.material.appbar.AppBarLayout$Behavior: AppBarLayout$Behavior(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatCheckedTextView: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+androidx.appcompat.app.AlertController$RecycleListView: AlertController$RecycleListView(android.content.Context)
+com.google.android.material.focus.FocusRingDrawable: FocusRingDrawable()
+androidx.appcompat.widget.AppCompatToggleButton: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+org.webrtc.Camera2Session$SessionState: org.webrtc.Camera2Session$SessionState valueOf(java.lang.String)
+com.google.android.material.checkbox.MaterialCheckBox: android.graphics.drawable.Drawable getButtonIconDrawable()
+com.google.android.material.button.MaterialButton: int getCornerRadius()
+androidx.appcompat.widget.ActionMenuView: void setPopupTheme(int)
+androidx.recyclerview.widget.StaggeredGridLayoutManager: StaggeredGridLayoutManager(android.content.Context,android.util.AttributeSet,int,int)
+androidx.appcompat.widget.AppCompatImageButton: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.transition.ViewGroupUtils$Api29Impl: int getChildDrawingOrder(android.view.ViewGroup,int)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+androidx.appcompat.widget.AlertDialogLayout: AlertDialogLayout(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatButton: int getAutoSizeMaxTextSize()
+androidx.core.view.WindowInsetsCompat$Impl20: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.appcompat.widget.AppCompatButton: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: void setRootAlpha(int)
+com.google.android.material.button.MaterialButton: android.graphics.drawable.Drawable getSecondaryIcon()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.AppCompatCheckBox: android.content.res.ColorStateList getSupportButtonTintList()
+androidx.appcompat.widget.Toolbar: void setTitle(int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29()
+androidx.core.view.ViewCompat$Api30Impl: android.view.WindowInsets dispatchApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl29)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+androidx.appcompat.widget.AppCompatImageButton: void setImageResource(int)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setLogo(int)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean equals(java.lang.Object)
+androidx.appcompat.widget.AppCompatToggleButton: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+androidx.core.view.WindowInsetsCompat$Impl20: void setSystemUiVisibility(int)
+com.google.crypto.tink.shaded.protobuf.WireFormat$FieldType: com.google.crypto.tink.shaded.protobuf.WireFormat$FieldType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl21)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: int getFillColor()
+androidx.appcompat.widget.AppCompatEditText: android.graphics.Typeface getTypeface()
+com.google.android.material.button.MaterialButton: void setCheckable(boolean)
+androidx.appcompat.widget.AppCompatTextView: java.lang.CharSequence getText()
+androidx.appcompat.widget.AppCompatImageView: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setDropDownBackgroundResource(int)
+androidx.core.widget.EdgeEffectCompat$Api31Impl: float getDistance(android.widget.EdgeEffect)
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getTitle()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: ProcessLifecycleOwner$attach$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getLogo()
+com.google.android.material.button.MaterialButton: void setSecondaryIconResource(int)
+org.webrtc.audio.JavaAudioDeviceModule$PlatformAudioProcessingTopology: org.webrtc.audio.JavaAudioDeviceModule$PlatformAudioProcessingTopology valueOf(java.lang.String)
+androidx.appcompat.widget.Toolbar: void setLogo(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.AppCompatTextView: void setPrecomputedText(androidx.core.text.PrecomputedTextCompat)
+androidx.appcompat.widget.Toolbar: int getContentInsetLeft()
+androidx.appcompat.widget.AppCompatImageButton: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$BuilderImpl34: WindowInsetsCompat$BuilderImpl34(androidx.core.view.WindowInsetsCompat)
+androidx.activity.Api34Impl: float touchX(android.window.BackEvent)
+com.google.android.material.button.MaterialButton: void setSecondaryIconGravity(int)
+com.google.android.material.transformation.FabTransformationBehavior: FabTransformationBehavior(android.content.Context,android.util.AttributeSet)
+okhttp3.Protocol: okhttp3.Protocol valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: void setPathData(androidx.core.graphics.PathParser$PathDataNode[])
+com.google.android.material.button.MaterialButton: com.google.android.material.shape.ShapeAppearance getShapeAppearance()
+androidx.transition.ViewUtilsApi21$Api29Impl: void transformMatrixToGlobal(android.view.View,android.graphics.Matrix)
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl29: void computeAndSetTextDirection(android.text.StaticLayout$Builder,android.widget.TextView)
+androidx.appcompat.widget.Toolbar: void setContentInsetEndWithActions(int)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setBackgroundResource(int)
+androidx.core.view.ViewCompat$Api21Impl$1: ViewCompat$Api21Impl$1(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.appcompat.app.AppCompatActivity: void setContentView(android.view.View)
+androidx.appcompat.widget.AppCompatButton: void setTypeface(android.graphics.Typeface)
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.appcompat.widget.LinearLayoutCompat: void setOrientation(int)
+androidx.core.view.ViewCompat$Api31Impl: java.lang.String[] getReceiveContentMimeTypes(android.view.View)
+androidx.appcompat.widget.AppCompatTextView: java.lang.String getFontVariationSettings()
+androidx.appcompat.widget.ActionMenuView: android.view.Menu getMenu()
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getCollapseIcon()
+com.google.android.material.checkbox.MaterialCheckBox: void setButtonTintMode(android.graphics.PorterDuff$Mode)
+com.google.android.material.checkbox.MaterialCheckBox: java.lang.String getButtonStateDescription()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+com.google.android.material.button.MaterialButton: void setShouldDrawSurfaceColorStroke(boolean)
+com.google.android.material.textfield.MaterialAutoCompleteTextView: void setSimpleItemSelectedRippleColor(android.content.res.ColorStateList)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+org.webrtc.JniCommon: java.nio.ByteBuffer nativeAllocateByteBuffer(int)
+androidx.appcompat.widget.ViewStubCompat: void setInflatedId(int)
+com.google.android.material.checkbox.MaterialCheckBox: android.content.res.ColorStateList getMaterialThemeColorsTintList()
+androidx.core.view.WindowInsetsCompat$BuilderImpl36: WindowInsetsCompat$BuilderImpl36()
+com.google.android.material.button.MaterialButton: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+com.google.android.material.button.MaterialButton: android.text.Layout$Alignment getGravityTextAlignment()
+androidx.activity.Api34Impl: float touchY(android.window.BackEvent)
+com.google.crypto.tink.proto.HashType: com.google.crypto.tink.proto.HashType valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatCheckBox: void setButtonDrawable(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.AppCompatImageView: void setSupportImageTintList(android.content.res.ColorStateList)

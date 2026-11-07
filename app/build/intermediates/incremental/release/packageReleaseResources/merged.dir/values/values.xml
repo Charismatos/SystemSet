@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System Set</string>
+    <string name="camera_preview">Camera Preview</string>
+    <string name="reset_tenant_key">Reset Tenant API Key</string>
+    <string name="switch_camera">Switch Camera Lens</string>
+</resources>

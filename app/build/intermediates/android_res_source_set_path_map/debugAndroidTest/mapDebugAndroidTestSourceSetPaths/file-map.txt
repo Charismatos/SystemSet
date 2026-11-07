@@ -1,0 +1,5 @@
+com.example.systemset.test.app-updated_navigation_xml-0 D:\Development\Projects\Android\SystemSet\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.example.systemset.test.app-packageDebugAndroidTestResources-1 D:\Development\Projects\Android\SystemSet\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
+com.example.systemset.test.app-packageDebugAndroidTestResources-2 D:\Development\Projects\Android\SystemSet\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
+com.example.systemset.test.app-debugAndroidTest-3 D:\Development\Projects\Android\SystemSet\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+gradleHome-0 C:\Users\CHARISMATOS\.gradle

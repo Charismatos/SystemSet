@@ -1,0 +1,14 @@
+/**
+ * Automatically generated file. DO NOT MODIFY
+ */
+package com.example.systemset.test;
+
+public final class BuildConfig {
+  public static final boolean DEBUG = Boolean.parseBoolean("true");
+  public static final String APPLICATION_ID = "com.example.systemset.test";
+  public static final String BUILD_TYPE = "debug";
+  // Field from default config.
+  public static final String BACKEND_BASE_URL = "https://worsening-basin-footrest.ngrok-free.dev";
+  // Field from default config.
+  public static final String DEVICE_USER_SLUG = "kampala-home";
+}

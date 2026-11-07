@@ -1,0 +1,332 @@
+{
+    "$schema" : "https://docs.oasis-open.org/sarif/sarif/v2.1.0/errata01/os/schemas/sarif-schema-2.1.0.json",
+    "version" : "2.1.0",
+    "runs" : [
+        {
+            "tool": {
+                "driver": {
+                    "name": "Android Lint",
+                    "fullName": "Android Lint (in gradle)",
+                    "version": "9.4.0",
+                    "semanticVersion": "9.4.0",
+                    "organization": "Google",
+                    "informationUri": "https://developer.android.com/studio/write/lint",
+                    "fullDescription": {
+                        "text": "Static analysis originally for Android source code but now performing general analysis"
+                    },
+                    "language": "en-US",
+                    "rules": [
+                        {
+                            "id": "UnusedResources",
+                            "shortDescription": {
+                                "text": "Unused resources"
+                            },
+                            "fullDescription": {
+                                "text": "Unused resources make applications larger and slow down builds.\n\n\nThe unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.\n\nYou can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true.\n",
+                                "markdown": "Unused resources make applications larger and slow down builds.\n\n\nThe unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.\n\nYou can include test sources in the unused resource check by setting the system property `lint.unused-resources.include-tests=true`, and to exclude them (usually for performance reasons), use `lint.unused-resources.exclude-tests=true`.\n"
+                            },
+                            "defaultConfiguration": {
+                                "level": "warning",
+                                "rank": 80
+                            },
+                            "properties": {
+                                "tags": [
+                                    "Performance"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "UseKtx",
+                            "shortDescription": {
+                                "text": "Use KTX extension function"
+                            },
+                            "fullDescription": {
+                                "text": "The Android KTX libraries decorates the Android platform SDK as well as various libraries with more convenient extension functions available from Kotlin, allowing you to use default parameters, named parameters, and more."
+                            },
+                            "defaultConfiguration": {
+                                "level": "warning",
+                                "rank": 50
+                            },
+                            "properties": {
+                                "tags": [
+                                    "Productivity"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "originalUriBaseIds": {
+                "%SRCROOT%": {
+                    "uri": "file:///D:/Development/Projects/Android/SystemSet/"
+                }
+            },
+            "results": [
+                {
+                    "ruleId": "UnusedResources",
+                    "ruleIndex": 0,
+                    "message": {
+                        "text": "The resource R.drawable.gv_counter_logo appears to be unused",
+                        "markdown": "The resource `R.drawable.gv_counter_logo` appears to be unused"
+                    },
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uriBaseId": "%SRCROOT%",
+                                    "uri": "app/src/main/res/drawable-nodpi/gv_counter_logo.png"
+                                },
+                                "region": {
+                                    "byteOffset": 0
+                                }                            }
+                        }
+                    ],
+                    "fixes": [
+                    ],
+                    "partialFingerprints": {
+                    }
+                },
+                {
+                    "ruleId": "UnusedResources",
+                    "ruleIndex": 0,
+                    "message": {
+                        "text": "The resource R.drawable.gv_counter_logo_no_buffer appears to be unused",
+                        "markdown": "The resource `R.drawable.gv_counter_logo_no_buffer` appears to be unused"
+                    },
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uriBaseId": "%SRCROOT%",
+                                    "uri": "app/src/main/res/drawable-nodpi/gv_counter_logo_no_buffer.png"
+                                },
+                                "region": {
+                                    "byteOffset": 0
+                                }                            }
+                        }
+                    ],
+                    "fixes": [
+                    ],
+                    "partialFingerprints": {
+                    }
+                },
+                {
+                    "ruleId": "UseKtx",
+                    "ruleIndex": 1,
+                    "message": {
+                        "text": "Use the KTX extension function SharedPreferences.edit instead?",
+                        "markdown": "Use the KTX extension function `SharedPreferences.edit` instead?"
+                    },
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uriBaseId": "%SRCROOT%",
+                                    "uri": "app/src/main/java/com/example/systemset/SanctumTokenStore.kt"
+                                },
+                                "region": {
+                                    "startLine": 39,
+                                    "startColumn": 18,
+                                    "endLine": 39,
+                                    "endColumn": 42,
+                                    "charOffset": 1435,
+                                    "charLength": 24,
+                                    "snippet": {
+                                        "text": "securePreferences.edit()"
+                                    }
+                                },
+                                "contextRegion": {
+                                    "startLine": 37,
+                                    "endLine": 42,
+                                    "snippet": {
+                                        "text": "            val previousToken = decrypt(previousSecureValue)\n            write(previousToken)\n            if (!securePreferences.edit().remove(LEGACY_TENANT_API_KEY).commit()) {\n                throw IOException(\"Could not remove the migrated device API token.\")\n            }\n"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "fixes": [
+                        {
+                            "description": {
+                                "text": "Replace with the edit extension function"
+                            },
+                            "artifactChanges": [
+                                {
+                                    "artifactLocation": {
+                                        "uriBaseId": "%SRCROOT%",
+                                        "uri": "app/src/main/java/com/example/systemset/SanctumTokenStore.kt"
+                                    },
+                                    "replacements": [
+                                        {
+                                            "deletedRegion": {
+                                                "startLine": 39,
+                                                "startColumn": 36,
+                                                "charOffset": 1453,
+                                                "endLine": 39,
+                                                "endColumn": 41,
+                                                "charLength": 5
+                                            },
+                                            "insertedContent": {
+                                                "text": "edit\n"
+                                            }
+                                        },
+                                        {
+                                            "deletedRegion": {
+                                                "startLine": 39,
+                                                "startColumn": 41,
+                                                "charOffset": 1458,
+                                                "endLine": 39,
+                                                "endColumn": 42,
+                                                "charLength": 1
+                                            },
+                                            "insertedContent": {
+                                                "text": "(commit = true) {\n"
+                                            }
+                                        },
+                                        {
+                                            "deletedRegion": {
+                                                "startLine": 39,
+                                                "startColumn": 42,
+                                                "charOffset": 1459,
+                                                "endLine": 39,
+                                                "endColumn": 43,
+                                                "charLength": 1
+                                            },
+                                            "insertedContent": {
+                                                "text": "\n"
+                                            }
+                                        },
+                                        {
+                                            "deletedRegion": {
+                                                "startLine": 39,
+                                                "startColumn": 72,
+                                                "charOffset": 1489,
+                                                "endLine": 39,
+                                                "endColumn": 81,
+                                                "charLength": 9
+                                            },
+                                            "insertedContent": {
+                                                "text": "}\n"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partialFingerprints": {
+                        "sourceContext/v1": "8b58fecd3efda059"
+                    }
+                },
+                {
+                    "ruleId": "UseKtx",
+                    "ruleIndex": 1,
+                    "message": {
+                        "text": "Use the KTX extension function SharedPreferences.edit instead?",
+                        "markdown": "Use the KTX extension function `SharedPreferences.edit` instead?"
+                    },
+                    "locations": [
+                        {
+                            "physicalLocation": {
+                                "artifactLocation": {
+                                    "uriBaseId": "%SRCROOT%",
+                                    "uri": "app/src/main/java/com/example/systemset/SanctumTokenStore.kt"
+                                },
+                                "region": {
+                                    "startLine": 138,
+                                    "startColumn": 14,
+                                    "endLine": 138,
+                                    "endColumn": 38,
+                                    "charOffset": 5043,
+                                    "charLength": 24,
+                                    "snippet": {
+                                        "text": "securePreferences.edit()"
+                                    }
+                                },
+                                "contextRegion": {
+                                    "startLine": 136,
+                                    "endLine": 141,
+                                    "snippet": {
+                                        "text": "\n    private fun remove(key: String) {\n        if (!securePreferences.edit().remove(key).commit()) {\n            throw IOException(\"Could not remove the stored device credential.\")\n        }\n"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "fixes": [
+                        {
+                            "description": {
+                                "text": "Replace with the edit extension function"
+                            },
+                            "artifactChanges": [
+                                {
+                                    "artifactLocation": {
+                                        "uriBaseId": "%SRCROOT%",
+                                        "uri": "app/src/main/java/com/example/systemset/SanctumTokenStore.kt"
+                                    },
+                                    "replacements": [
+                                        {
+                                            "deletedRegion": {
+                                                "startLine": 138,
+                                                "startColumn": 32,
+                                                "charOffset": 5061,
+                                                "endLine": 138,
+                                                "endColumn": 37,
+                                                "charLength": 5
+                                            },
+                                            "insertedContent": {
+                                                "text": "edit\n"
+                                            }
+                                        },
+                                        {
+                                            "deletedRegion": {
+                                                "startLine": 138,
+                                                "startColumn": 37,
+                                                "charOffset": 5066,
+                                                "endLine": 138,
+                                                "endColumn": 38,
+                                                "charLength": 1
+                                            },
+                                            "insertedContent": {
+                                                "text": "(commit = true) {\n"
+                                            }
+                                        },
+                                        {
+                                            "deletedRegion": {
+                                                "startLine": 138,
+                                                "startColumn": 38,
+                                                "charOffset": 5067,
+                                                "endLine": 138,
+                                                "endColumn": 39,
+                                                "charLength": 1
+                                            },
+                                            "insertedContent": {
+                                                "text": "\n"
+                                            }
+                                        },
+                                        {
+                                            "deletedRegion": {
+                                                "startLine": 138,
+                                                "startColumn": 50,
+                                                "charOffset": 5079,
+                                                "endLine": 138,
+                                                "endColumn": 59,
+                                                "charLength": 9
+                                            },
+                                            "insertedContent": {
+                                                "text": "}\n"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "partialFingerprints": {
+                        "sourceContext/v1": "c19be31f791aad32"
+                    }
+                }
+            ]
+        }
+    ]
+}

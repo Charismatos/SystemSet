@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.systemset.app-debug-43:/drawable-nodpi_gv_counter_logo_no_buffer.png.flat",
+        "source": "com.example.systemset.app-main-45:/drawable-nodpi/gv_counter_logo_no_buffer.png"
+    },
+    {
+        "merged": "com.example.systemset.app-debug-43:/mipmap_systemset_logo.png.flat",
+        "source": "com.example.systemset.app-main-45:/mipmap/systemset_logo.png"
+    },
+    {
+        "merged": "com.example.systemset.app-debug-43:/drawable-nodpi_gv_counter_logo.png.flat",
+        "source": "com.example.systemset.app-main-45:/drawable-nodpi/gv_counter_logo.png"
+    },
+    {
+        "merged": "com.example.systemset.app-debug-43:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.systemset.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.systemset.app-debug-43:/xml_backup_rules.xml.flat",
+        "source": "com.example.systemset.app-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.systemset.app-debug-43:/layout_activity_main.xml.flat",
+        "source": "com.example.systemset.app-main-45:/layout/activity_main.xml"
+    }
+]

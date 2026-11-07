@@ -1,0 +1,29 @@
+<variant
+    name="debug"
+    package="com.example.systemset"
+    minSdkVersion="24"
+    targetSdkVersion="37.0"
+    debuggable="true"
+    mergedManifest="build\intermediates\merged_manifest\debug\processDebugMainManifest\AndroidManifest.xml"
+    partialResultsDir="build\intermediates\android_test_lint_partial_results\debug\lintAnalyzeDebugAndroidTest\out"
+    desugaredMethodsFiles="C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\558512251086b0e4c4aefc83d696dc08\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures/>
+  <sourceProviders>
+  </sourceProviders>
+  <testSourceProviders>
+    <sourceProvider
+        manifests="src\androidTest\AndroidManifest.xml"
+        javaDirectories="src\androidTest\java;src\androidTestDebug\java;src\androidTest\kotlin;src\androidTestDebug\kotlin"
+        resDirectories="src\androidTest\res;src\androidTestDebug\res"
+        assetsDirectories="src\androidTest\assets;src\androidTestDebug\assets"
+        keepRulesDirectories="src\androidTest\keepRules;src\androidTestDebug\keepRules"
+        androidTest="true"/>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      type="INSTRUMENTATION_TEST"
+      applicationId="com.example.systemset.test"
+      desugaredMethodsFiles="C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\558512251086b0e4c4aefc83d696dc08\transformed\D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

@@ -1,0 +1,8 @@
+com.example.systemset.app-pngs-0 D:\Development\Projects\Android\SystemSet\app\build\generated\res\pngs\debug
+com.example.systemset.app-updated_navigation_xml-1 D:\Development\Projects\Android\SystemSet\app\build\generated\updated_navigation_xml\debug
+com.example.systemset.app-packageDebugResources-2 D:\Development\Projects\Android\SystemSet\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.systemset.app-packageDebugResources-3 D:\Development\Projects\Android\SystemSet\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.systemset.app-debug-4 D:\Development\Projects\Android\SystemSet\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.systemset.app-debug-5 D:\Development\Projects\Android\SystemSet\app\src\debug\res
+com.example.systemset.app-main-6 D:\Development\Projects\Android\SystemSet\app\src\main\res
+gradleHome-0 C:\Users\CHARISMATOS\.gradle

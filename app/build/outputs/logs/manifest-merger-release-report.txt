@@ -1,0 +1,317 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.google.android.material:material:1.14.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\bd8306ee0019e245804d6d1673f2ce90\transformed\material-1.14.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\41e9e70328f906007bd888cf7c2a9788\transformed\appcompat-resources-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3c08dce04824584d6ab58513e86738a5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.8.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\8214b193544ef0a711eb97a17e50b6a6\transformed\appcompat-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1f2b981e10572412003f1037da862133\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\b2177ee2c110684a1d07c60eab8f2e01\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\29b55b75f98b236c3932e1aebf18d692\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\2b0b4c0842d68da39635c0eb2191f932\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\df38c63e8b3305a310dae99d8b3ab506\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\5ba4e11e0206422a576e8bf354b73e7c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\a16a128ddac8db0a7413b8f9ddcec218\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\75008cfc2300d7a19dc2227f851e0bed\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\5251a8b3fb1069e61f743f3b124f6a27\transformed\customview-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d387aa6e4555c84326dfaaf667c3986e\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e1fa3d6de09024323a85494fde7770ff\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\31f1f7ac3a7776d2d9adca80374583a0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\316d090b3deafd0e7570adc9e56536cc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\6b565e24001dded0c259d9a24595cf88\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\313bc2887ed83879592059f5b9194b02\transformed\graphics-shapes-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\4985f2d5e32a1866548a55dc34461ca9\transformed\lifecycle-viewmodel-2.10.0\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d121509b9b07801f9c51f865f6c464a1\transformed\lifecycle-viewmodel\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\16fe9332ce132ba4773362a143378c57\transformed\lifecycle-livedata-core-ktx-2.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1643acca65cdd08b1c31315506a6db46\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\9bc821065d0766cc17723f5e621c1104\transformed\lifecycle-livedata-core-2.10.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\2fe624f4aae77278ebcc335397686e57\transformed\lifecycle-livedata-2.10.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\8aba15ac2e789046b5425326652baa5a\transformed\savedstate\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1a96d239eba2dc33a7b152c6bed5254e\transformed\lifecycle-runtime\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1bc50b5e0eed815b4acd460fb186a028\transformed\lifecycle-viewmodel-savedstate\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\b6604cad78f8e3c72f549c96f02bd2a7\transformed\core-ktx-1.19.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\2bfb6022be4ce439b7fa6d60ed7a143c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\dd5ae901a7bcdc1954adb5db7f924531\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.security:security-crypto:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\5446260de5a01560455a7ee79315d15f\transformed\security-crypto-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\bc38398cb5e7ba49d427447e635bc974\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\ec20867743cdbd2052755ef9364216f0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\a78dfab88e15bf6a75e8af231e06c445\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\dff131b516c17d37948456c9c154a7c9\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3ac1b4da493734238fa4f493f4214b07\transformed\startup-runtime-1.2.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\45bd5e84bad4a8635b474a6a064a76b1\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\5b60b6eb2dfbeb65451fec2a63802b49\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.github.webrtc-sdk:android:150.7871.04] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\7a1d72012c9b81a454f5dc90d61f8c4e\transformed\android-150.7871.04\AndroidManifest.xml:11:1-14:12
+	package
+		INJECTED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.INTERNET
+ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:8:5-67
+MERGED from [com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:6:22-64
+uses-feature#android.hardware.camera.any
+ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:7:5-9:35
+	android:required
+		ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:8:9-51
+application
+ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:11:5-24:19
+INJECTED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:11:5-24:19
+MERGED from [com.google.android.material:material:1.14.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\bd8306ee0019e245804d6d1673f2ce90\transformed\material-1.14.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.14.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\bd8306ee0019e245804d6d1673f2ce90\transformed\material-1.14.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3c08dce04824584d6ab58513e86738a5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3c08dce04824584d6ab58513e86738a5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1643acca65cdd08b1c31315506a6db46\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1643acca65cdd08b1c31315506a6db46\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:10:5-20:19
+MERGED from [com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:10:5-20:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\bc38398cb5e7ba49d427447e635bc974\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\bc38398cb5e7ba49d427447e635bc974\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3ac1b4da493734238fa4f493f4214b07\transformed\startup-runtime-1.2.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3ac1b4da493734238fa4f493f4214b07\transformed\startup-runtime-1.2.0\AndroidManifest.xml:23:5-29:19
+	android:extractNativeLibs
+		INJECTED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:13:9-46
+	android:allowBackup
+		ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:15:9-79
+activity#com.example.systemset.MainActivity
+ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:16:9-23:20
+	android:exported
+		ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml
+INJECTED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.14.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\bd8306ee0019e245804d6d1673f2ce90\transformed\material-1.14.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.14.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\bd8306ee0019e245804d6d1673f2ce90\transformed\material-1.14.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\41e9e70328f906007bd888cf7c2a9788\transformed\appcompat-resources-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\41e9e70328f906007bd888cf7c2a9788\transformed\appcompat-resources-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3c08dce04824584d6ab58513e86738a5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3c08dce04824584d6ab58513e86738a5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.8.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\8214b193544ef0a711eb97a17e50b6a6\transformed\appcompat-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.8.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\8214b193544ef0a711eb97a17e50b6a6\transformed\appcompat-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1f2b981e10572412003f1037da862133\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1f2b981e10572412003f1037da862133\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\b2177ee2c110684a1d07c60eab8f2e01\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\b2177ee2c110684a1d07c60eab8f2e01\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\29b55b75f98b236c3932e1aebf18d692\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\29b55b75f98b236c3932e1aebf18d692\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\2b0b4c0842d68da39635c0eb2191f932\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\2b0b4c0842d68da39635c0eb2191f932\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\df38c63e8b3305a310dae99d8b3ab506\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\df38c63e8b3305a310dae99d8b3ab506\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\5ba4e11e0206422a576e8bf354b73e7c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\5ba4e11e0206422a576e8bf354b73e7c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\a16a128ddac8db0a7413b8f9ddcec218\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\a16a128ddac8db0a7413b8f9ddcec218\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\75008cfc2300d7a19dc2227f851e0bed\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\75008cfc2300d7a19dc2227f851e0bed\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\5251a8b3fb1069e61f743f3b124f6a27\transformed\customview-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\5251a8b3fb1069e61f743f3b124f6a27\transformed\customview-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d387aa6e4555c84326dfaaf667c3986e\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d387aa6e4555c84326dfaaf667c3986e\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e1fa3d6de09024323a85494fde7770ff\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e1fa3d6de09024323a85494fde7770ff\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\31f1f7ac3a7776d2d9adca80374583a0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\31f1f7ac3a7776d2d9adca80374583a0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\316d090b3deafd0e7570adc9e56536cc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\316d090b3deafd0e7570adc9e56536cc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\6b565e24001dded0c259d9a24595cf88\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\6b565e24001dded0c259d9a24595cf88\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\313bc2887ed83879592059f5b9194b02\transformed\graphics-shapes-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\313bc2887ed83879592059f5b9194b02\transformed\graphics-shapes-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\4985f2d5e32a1866548a55dc34461ca9\transformed\lifecycle-viewmodel-2.10.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\4985f2d5e32a1866548a55dc34461ca9\transformed\lifecycle-viewmodel-2.10.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d121509b9b07801f9c51f865f6c464a1\transformed\lifecycle-viewmodel\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d121509b9b07801f9c51f865f6c464a1\transformed\lifecycle-viewmodel\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\16fe9332ce132ba4773362a143378c57\transformed\lifecycle-livedata-core-ktx-2.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\16fe9332ce132ba4773362a143378c57\transformed\lifecycle-livedata-core-ktx-2.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1643acca65cdd08b1c31315506a6db46\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1643acca65cdd08b1c31315506a6db46\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\9bc821065d0766cc17723f5e621c1104\transformed\lifecycle-livedata-core-2.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\9bc821065d0766cc17723f5e621c1104\transformed\lifecycle-livedata-core-2.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\2fe624f4aae77278ebcc335397686e57\transformed\lifecycle-livedata-2.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\2fe624f4aae77278ebcc335397686e57\transformed\lifecycle-livedata-2.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\8aba15ac2e789046b5425326652baa5a\transformed\savedstate\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\8aba15ac2e789046b5425326652baa5a\transformed\savedstate\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1a96d239eba2dc33a7b152c6bed5254e\transformed\lifecycle-runtime\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1a96d239eba2dc33a7b152c6bed5254e\transformed\lifecycle-runtime\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1bc50b5e0eed815b4acd460fb186a028\transformed\lifecycle-viewmodel-savedstate\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1bc50b5e0eed815b4acd460fb186a028\transformed\lifecycle-viewmodel-savedstate\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\b6604cad78f8e3c72f549c96f02bd2a7\transformed\core-ktx-1.19.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\b6604cad78f8e3c72f549c96f02bd2a7\transformed\core-ktx-1.19.1\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:6:5-44
+MERGED from [com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:6:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\2bfb6022be4ce439b7fa6d60ed7a143c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\2bfb6022be4ce439b7fa6d60ed7a143c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\dd5ae901a7bcdc1954adb5db7f924531\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\dd5ae901a7bcdc1954adb5db7f924531\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.security:security-crypto:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\5446260de5a01560455a7ee79315d15f\transformed\security-crypto-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\5446260de5a01560455a7ee79315d15f\transformed\security-crypto-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\bc38398cb5e7ba49d427447e635bc974\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\bc38398cb5e7ba49d427447e635bc974\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\ec20867743cdbd2052755ef9364216f0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\ec20867743cdbd2052755ef9364216f0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\a78dfab88e15bf6a75e8af231e06c445\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\a78dfab88e15bf6a75e8af231e06c445\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\dff131b516c17d37948456c9c154a7c9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\dff131b516c17d37948456c9c154a7c9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3ac1b4da493734238fa4f493f4214b07\transformed\startup-runtime-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3ac1b4da493734238fa4f493f4214b07\transformed\startup-runtime-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\45bd5e84bad4a8635b474a6a064a76b1\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\45bd5e84bad4a8635b474a6a064a76b1\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\5b60b6eb2dfbeb65451fec2a63802b49\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\5b60b6eb2dfbeb65451fec2a63802b49\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [io.github.webrtc-sdk:android:150.7871.04] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\7a1d72012c9b81a454f5dc90d61f8c4e\transformed\android-150.7871.04\AndroidManifest.xml:13:3-72
+MERGED from [io.github.webrtc-sdk:android:150.7871.04] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\7a1d72012c9b81a454f5dc90d61f8c4e\transformed\android-150.7871.04\AndroidManifest.xml:13:3-72
+	android:targetSdkVersion
+		INJECTED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Development\Projects\Android\SystemSet\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1643acca65cdd08b1c31315506a6db46\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1643acca65cdd08b1c31315506a6db46\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:24:9-32:20
+MERGED from [com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:11:9-19:20
+MERGED from [com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:11:9-19:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3ac1b4da493734238fa4f493f4214b07\transformed\startup-runtime-1.2.0\AndroidManifest.xml:24:9-28:34
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3ac1b4da493734238fa4f493f4214b07\transformed\startup-runtime-1.2.0\AndroidManifest.xml:24:9-28:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\e43f43097c5977712372f1af8779e8e0\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:23:9-81
+permission#com.example.systemset.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.systemset.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.19.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\d5d899a772d299d3814d5a6189990a97\transformed\core-1.19.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1643acca65cdd08b1c31315506a6db46\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1643acca65cdd08b1c31315506a6db46\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1643acca65cdd08b1c31315506a6db46\transformed\lifecycle-process-2.10.0\AndroidManifest.xml:30:17-78
+meta-data#okhttp3.internal.platform.PlatformInitializer
+ADDED from [com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:16:13-18:52
+	android:value
+		ADDED from [com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:18:17-49
+	android:name
+		ADDED from [com.squareup.okhttp3:okhttp-android:5.5.1] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\1894fb0172d42b859b21b4b8de98777f\transformed\okhttp\AndroidManifest.xml:17:17-77
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CHARISMATOS\.gradle\caches\9.8.2\transforms\3f36040d3b79ac3459107ab4df562be2\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

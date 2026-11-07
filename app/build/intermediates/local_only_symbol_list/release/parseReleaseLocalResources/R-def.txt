@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+drawable gv_counter_logo
+drawable gv_counter_logo_no_buffer
+id btnResetConfig
+id btnSwitchCamera
+id localVideoRenderer
+layout activity_main
+mipmap systemset_logo
+string app_name
+string camera_preview
+string reset_tenant_key
+string switch_camera
